@@ -716,10 +716,10 @@
 	},
 	"file_history":
 	[
-		"/Users/pedro/Sites/PedidoNaRede/includes/wrap/carteWrap.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/wrap/carteWrap.php",
 		"/Users/pedro/Sites/PedidoNaRede/js/jquery.fineuploader.js",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/TableMapViewController.m",
-		"/Users/pedro/Sites/PedidoNaRede/includes/connection.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/connection.php",
 		"/Users/pedro/Sites/PedidoNaRede/resize-class.php",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/OrderViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/ChatViewController.m",
@@ -729,25 +729,25 @@
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/MenuViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/WaiterViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/developer/index.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/bar.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/bar.php",
 		"/Users/pedro/Sites/PedidoNaRede/developer/api/index.php",
 		"/Users/pedro/Sites/PedidoNaRede/ajax.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/queries.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/core.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/queries.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/core.php",
 		"/Users/pedro/Sites/PedidoNaRede/carte.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/utils.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/loginCheck.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/wrap/mapWrap.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/utils.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/loginCheck.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/wrap/mapWrap.php",
 		"/Users/pedro/Sites/PedidoNaRede/account.php",
 		"/Users/pedro/Sites/PedidoNaRede/applications.php",
 		"/Users/pedro/Sites/PedidoNaRede/company.php",
 		"/Users/pedro/Sites/PedidoNaRede/css/default.min.css",
 		"/Users/pedro/Sites/PedidoNaRede/map.php",
 		"/Users/pedro/Sites/PedidoNaRede/PedidoNaRede.sublime-workspace",
-		"/Users/pedro/Sites/PedidoNaRede/includes/wrap/collectionWrap.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/wrap.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/wrap/feedbackWrap.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/wrap/carteWrap",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/wrap/collectionWrap.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/wrap.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/wrap/feedbackWrap.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/wrap/carteWrap",
 		"/Users/pedro/Sites/PedidoNaRede/css/default.css",
 		"/Users/pedro/Sites/PedidoNaRede/feedback.php",
 		"/Users/pedro/Sites/PedidoNaRede/js/default.js",
@@ -758,14 +758,14 @@
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/StepperView.xib",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/CheckBucketAddView.xib",
 		"/Users/pedro/Sites/PedidoNaRede/ajaxCarte.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/wrapper.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/wrapper.php",
 		"/Users/pedro/Sites/PedidoNaRede/banner.php",
 		"/Users/pedro/Sites/PedidoNaRede/ajaxMap.php",
 		"/Users/pedro/Sites/PedidoNaRede/index.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/notification.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/notification.php",
 		"/Users/pedro/Sites/PedidoNaRede/fileuploader.php",
 		"/Users/pedro/Sites/PedidoNaRede/help.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/header.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/header.php",
 		"/Users/pedro/Sites/PedidoNaRede/.htaccess",
 		"/Users/pedro/Sites/PedidoNaRede/data.php",
 		"/Users/pedro/Sites/PedidoNaRede/location.php",
@@ -773,7 +773,7 @@
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/ThemeColors.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/HumanViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/en.lproj/Localizable.strings",
-		"/Users/pedro/Sites/PedidoNaRede/includes/bcrypt.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/bcrypt.php",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/DemoViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/InformationViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/ToolViewController.m",
@@ -781,7 +781,7 @@
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/pt.lproj/Localizable.strings",
 		"/Users/pedro/Sites/PedidoNaRede/PedidoNaRede.sublime-project",
 		"/Users/pedro/Sites/PedidoNaRede/ajaxApplication.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/format.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/format.php",
 		"/Users/pedro/Sites/PedidoNaRede/permissions.php",
 		"/Users/pedro/Library/Application Support/Sublime Text 2/Packages/DashDoc/DashDoc.sublime-settings",
 		"/Users/pedro/Library/Application Support/Sublime Text 2/Packages/User/DashDoc.sublime-settings",
@@ -793,16 +793,16 @@
 		"/Users/pedro/Sites/PedidoNaRede/js/jquery.gridster.min.js",
 		"/Users/pedro/Sites/PedidoNaRede/css/jquery.gridster.min.css",
 		"/Users/pedro/Sites/PedidoNaRede/js/oldCode.js",
-		"/Users/pedro/Sites/PedidoNaRede/includes/api.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/api.php",
 		"/Users/pedro/Sites/PedidoNaRede/developer/APIController.h",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/APIController.m",
-		"/Users/pedro/Sites/PedidoNaRede/includes/sequence.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/sequence.php",
 		"/Users/pedro/Sites/PedidoNaRede/logout.php",
 		"/Users/pedro/Sites/PedidoNaRede/register.php",
-		"/Users/pedro/Sites/PedidoNaRede/includes/fetch.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/fetch.php",
 		"/Users/pedro/Sites/PedidoNaRede/ajaxRegister.php",
 		"/Users/pedro/Sites/PedidoNaRede/developer/APIController.m",
-		"/Users/pedro/Sites/PedidoNaRede/includes/fetchHTML.php",
+		"/Users/pedro/Sites/PedidoNaRede/includes/html/fetchHTML.php",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/CheckViewCell.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/AppDelegate.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/iOS/PedidoNaRede/WrapperViewController.m",
@@ -1255,7 +1255,7 @@
 			],
 			[
 				"carte",
-				"includes/wrap/carteWrap.php"
+				"includes/html/wrap/carteWrap.php"
 			],
 			[
 				"fileup",
@@ -1267,7 +1267,7 @@
 			],
 			[
 				"header",
-				"includes/header.php"
+				"includes/html/header.php"
 			],
 			[
 				"ca",
@@ -1275,11 +1275,11 @@
 			],
 			[
 				"conn",
-				"includes/connection.php"
+				"includes/html/connection.php"
 			],
 			[
 				"logi",
-				"includes/loginCheck.php"
+				"includes/html/loginCheck.php"
 			],
 			[
 				"res",
@@ -1291,7 +1291,7 @@
 			],
 			[
 				"wra",
-				"includes/wrap/carteWrap.php"
+				"includes/html/wrap/carteWrap.php"
 			],
 			[
 				"app",
@@ -1299,47 +1299,47 @@
 			],
 			[
 				"log",
-				"includes/loginCheck.php"
+				"includes/html/loginCheck.php"
 			],
 			[
 				"lo",
-				"includes/loginCheck.php"
+				"includes/html/loginCheck.php"
 			],
 			[
 				"uti",
-				"includes/utils.php"
+				"includes/html/utils.php"
 			],
 			[
 				"util",
-				"includes/utils.php"
+				"includes/html/utils.php"
 			],
 			[
 				"u",
-				"includes/utils.php"
+				"includes/html/utils.php"
 			],
 			[
 				"ut",
-				"includes/utils.php"
+				"includes/html/utils.php"
 			],
 			[
 				"core",
-				"includes/core.php"
+				"includes/html/core.php"
 			],
 			[
 				"qu",
-				"includes/queries.php"
+				"includes/html/queries.php"
 			],
 			[
 				"que",
-				"includes/queries.php"
+				"includes/html/queries.php"
 			],
 			[
 				"utils",
-				"includes/utils.php"
+				"includes/html/utils.php"
 			],
 			[
 				"map",
-				"includes/wrap/mapWrap.php"
+				"includes/html/wrap/mapWrap.php"
 			],
 			[
 				"inde",
@@ -1355,7 +1355,7 @@
 			],
 			[
 				"con",
-				"includes/connection.php"
+				"includes/html/connection.php"
 			],
 			[
 				"car",
@@ -1363,11 +1363,11 @@
 			],
 			[
 				"co",
-				"includes/connection.php"
+				"includes/html/connection.php"
 			],
 			[
 				"bar",
-				"includes/bar.php"
+				"includes/html/bar.php"
 			],
 			[
 				"bann",
@@ -1375,7 +1375,7 @@
 			],
 			[
 				"login",
-				"includes/loginCheck.php"
+				"includes/html/loginCheck.php"
 			],
 			[
 				"aj",
@@ -1383,15 +1383,15 @@
 			],
 			[
 				"queri",
-				"includes/queries.php"
+				"includes/html/queries.php"
 			],
 			[
 				"qe",
-				"includes/queries.php"
+				"includes/html/queries.php"
 			],
 			[
 				"noti",
-				"includes/notification.php"
+				"includes/html/notification.php"
 			],
 			[
 				"ban",
@@ -1403,7 +1403,7 @@
 			],
 			[
 				"he",
-				"includes/header.php"
+				"includes/html/header.php"
 			],
 			[
 				"hta",
@@ -1411,11 +1411,11 @@
 			],
 			[
 				"cone",
-				"includes/connection.php"
+				"includes/html/connection.php"
 			],
 			[
 				"quer",
-				"includes/queries.php"
+				"includes/html/queries.php"
 			],
 			[
 				"es",
@@ -1423,7 +1423,7 @@
 			],
 			[
 				"n",
-				"includes/notification.php"
+				"includes/html/notification.php"
 			],
 			[
 				"themec",
@@ -1447,7 +1447,7 @@
 			],
 			[
 				"bcry",
-				"includes/bcrypt.php"
+				"includes/html/bcrypt.php"
 			],
 			[
 				"local",
@@ -1503,7 +1503,7 @@
 			],
 			[
 				"heade",
-				"includes/header.php"
+				"includes/html/header.php"
 			],
 			[
 				"devel",
@@ -1523,7 +1523,7 @@
 			],
 			[
 				"hea",
-				"includes/header.php"
+				"includes/html/header.php"
 			],
 			[
 				"old",
@@ -1535,7 +1535,7 @@
 			],
 			[
 				"for",
-				"includes/format.php"
+				"includes/html/format.php"
 			],
 			[
 				"aax",
@@ -1559,11 +1559,11 @@
 			],
 			[
 				"se",
-				"includes/sequence.php"
+				"includes/html/sequence.php"
 			],
 			[
 				"s",
-				"includes/sequence.php"
+				"includes/html/sequence.php"
 			],
 			[
 				"de",
@@ -1599,7 +1599,7 @@
 			],
 			[
 				"bcr",
-				"includes/bcrypt.php"
+				"includes/html/bcrypt.php"
 			],
 			[
 				"menuitem",

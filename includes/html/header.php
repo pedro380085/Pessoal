@@ -1,7 +1,7 @@
 <?php
 
     // Define our current language
-    $lang = (isset($_GET["lang"])) ? $lang = $_GET["lang"] : "";
+    $lang = (isset($_GET["lang"])) ? $lang = $_GET["lang"] : "en";
 
     // Wrap it to our folder structure
     $langOptions = array("en" => "en_US", "pt" => "pt_BR");

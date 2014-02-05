@@ -1,5 +1,4 @@
 body {
-/*	border: 4px inset #333;*/
 	min-height: 200px;
 	font-family: 'Open Sans', sans-serif;
 	background-color: whiteSmoke;
@@ -24,6 +23,10 @@ ul {
 	list-style: georgian;
 	padding: 0;
 	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
 }
 
 /* @group Company */
@@ -67,8 +70,15 @@ ul {
 	margin-top: 0.66em;
 }
 
-.languages {
+.articles {
 	padding-bottom: 20px;
+	border-bottom: 1px solid #C2C2C2;
+}
+
+.languages {
+	margin-top: 20px;
+	padding-bottom: 20px;
+	border-top: 1px solid #C2C2C2;
 	border-bottom: 1px solid #C2C2C2;
 }
 
@@ -83,7 +93,6 @@ ul {
 .upperBlock {
 	width: inherit;
 	top: 0;
-	/*color: #040441;*/
 	color: black;
 	font-weight: bold;
 	font-size: 90%;

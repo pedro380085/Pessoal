@@ -1,7 +1,7 @@
-<?php include_once("includes/header.php") ?>
+<?php include_once("includes/html/header.php") ?>
 <body>
 
-    <?php include_once("includes/language.php") ?>
+    <?php include_once("includes/html/language.php") ?>
 	
 	<div id="content">
 
@@ -16,7 +16,7 @@
 				<p><?php echo sprintf(_("Olá! Sou Pedro Góes e atualmente sou C.E.O. no %sTrilha%s."), '<a target="_blank" href="http://grupotrilha.com.br/">', '</a>') ?></p>
 			</section>
 			
-            <section class="onlyTitle languages">
+            <section class="onlyTitle articles">
                 <h2><?php echo _("Artigos") ?></h2>
                 <p><?php echo sprintf(_("A maioria estão no %sblog oficial do Trilha%s."), '<a target="_blank" href="http://grupotrilha.com.br/blog/">', '</a>') ?> <?php echo _("Escritas independentes também podem ser vistas abaixo:") ?></p>
                 <a target="_blank" href="hist.php">
