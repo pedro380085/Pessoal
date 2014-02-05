@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pessoal\n"
+"POT-Creation-Date: 2014-02-05 03:24+0100\n"
+"PO-Revision-Date: 2014-02-05 03:24+0100\n"
+"Last-Translator: Pedro Góes <pedro.pecanha.goes@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/pedro/Sites/Pessoal\n"
+
+#: /Users/pedro/Sites/Pessoal/hist.php:8
+msgid "Voltar para página inicial"
+msgstr "Go back"
+
+#: /Users/pedro/Sites/Pessoal/hist.php:11
+msgid "Eu"
+msgstr "Me"
+
+#: /Users/pedro/Sites/Pessoal/hist.php:13
+msgid ""
+"Quando escrevi essa página pela primeira vez, eu optei por descrever em "
+"detalhes todas minhas conquistas nos últimos anos, mas realmente, quem se "
+"importa? A programação se tornou um hábito diário desde que completei quinze "
+"anos e, se me perguntar, é algo que faço muito bem. Mas no final, não "
+"importa o que save programa, mas sim para que sabe programar."
+msgstr ""
+"When I've first written this page, I choose to describe in detail all my "
+"achievements in the last few years, but really, who cares? I've been "
+"programming every living day since I turned fifteen and I do it very well, "
+"if you ask me. But in the end, what matters is what you program, now what "
+"you know to program."
+
+#: /Users/pedro/Sites/Pessoal/hist.php:15
+msgid "A brief story of myself"
+msgstr "Uma rápida história"
+
+#: /Users/pedro/Sites/Pessoal/hist.php:17
+#, php-format
+msgid ""
+"Quando estava no colégio, eu estudei pra caramba. Você vê, no Brasil as "
+"melhores universidades são públicas, totalmente financiadas pelo governo e "
+"abertas a qualquer pessoa disposta a fazer os exames de admissão. Eu amava "
+"tanto escrever código mas, ainda assim, tive que aprender todos os assuntos "
+"desnecessários para que pudesse entrar uma boa universidade e trabalhar "
+"apenas em meu código amado. E assim eu me tornei um aluno da %sUSP%s."
+msgstr ""
+"When I was in High School, I studied like hell. You see, in Brazil the best "
+"universities are public, completely funded by the government and open to "
+"anyone willing to take the admission exams. I loved so much to write code "
+"but still, I had to learn all that needless subjects so I could get inside a "
+"good university and just work on my beloved code. And so I became an %sUSP%s "
+"student."
+
+#: /Users/pedro/Sites/Pessoal/hist.php:19
+#, php-format
+msgid ""
+"No início, foi tudo incrível. Eu finalmente tive a liberdade que eu sempre "
+"quis (não só eu estava livre da escola, mas eu também comecei a viver em meu "
+"próprio), mas, como todos os truque de mágica, as coisas não ficam "
+"magicamente para sempre. O curso em si foi um ajuste ruim para mim, porque "
+"eu queria ser um Enginner Software e não um Enginner Computador. A diferença "
+"na redação pode ser pequeno, mas o conteúdo não é certamente, e assim, "
+"depois de dois anos, eu estava realmente frustated. Eu já tinha financiado a "
+"minha segunda empresa %sTrilha%s com um colega de classe, mas a minha vida "
+"acadêmica necessária para mudar, então eu decidi fazer um programa de "
+"intercâmbio (BSWB) por um ano. Fui aprovado, mas infelizmente não foi para a "
+"universidade eu queria, então eu recusei a oferta e se aproximou o Brasil "
+"como o ambiente onde minha empresa iria crescer."
+msgstr ""
+"At first, everything was amazing. I finally had the liberty I always wanted "
+"(not only I was free from High School but I also started living on my own), "
+"but, as every magic trick, things don't stay magically forever. The course "
+"itself was a bad fit for me because I wanted to be a Software Enginner and "
+"not a Computer Enginner. The difference on wording may be small, but the "
+"content certainly isn't, and so, after two years, I was really frustrated. I "
+"had already funded my second company %sEstúdio Trilha%s with a classmate, "
+"but my academic life needed to change, so I decided to take an exchange "
+"program (BSWB) for a year. I was approved, but unfortunately wasn't for the "
+"university I wished, so I declined the offer and approached Brazil as the "
+"environment where my company would grow."
+
+#: /Users/pedro/Sites/Pessoal/hist.php:21
+#, php-format
+msgid ""
+"At first, everything was amazing. I finally had the liberty I always wanted "
+"(not only I was free from High School but I also started living on my own), "
+"but, as every magic trick, things don't stay magically forever. The course "
+"itself was a bad fit for me because I wanted to be a Software Enginner and "
+"not a Computer Enginner. The difference on wording may be small, but the "
+"content certainly isn't, and so, after two years, I was really frustated. I "
+"had already funded my second company %sEstúdio Trilha%s with a classmate, "
+"but my academic life needed to change, so I decided to take an exchange "
+"program (BSWB) for a year. I was approved, but unfortunatelly wasn't for the "
+"university I wished, so I declined the offer and approached Brazil as the "
+"environment where my company would grow."
+msgstr ""
+
+#: /Users/pedro/Sites/Pessoal/hist.php:23
+msgid ""
+"Mas nada disso importa quando você decidir se tornar um CEO Na nossa "
+"empresa, temos produtos que criou com base em tecnologia de ponta e até "
+"mesmo difícil de trabalhar dia e noite sobre ele, as pessoas realmente não "
+"parece se importar. E eles estão certos. Com o fluxo absurdo de informação "
+"que temos hoje em dia, somos exigentes com os detalhes eo processo de venda."
+msgstr ""
+"But none of that matters when you decide to become a C.E.O. In our company, "
+"we have products that created based on cutting edge technology and even "
+"tough we work day and night on it, people don't really seem to care. And "
+"they are right. With the absurd flow of information that we have nowadays, "
+"we are fastidious about the details and the selling process."
+
+#: /Users/pedro/Sites/Pessoal/hist.php:25
+msgid ""
+"But none of that matters when you decide to become a C.E.O. In our company, "
+"we have products that created based on cutting edge technology and even "
+"tough we work day and night on it, people don't really seem to care. And "
+"they are right. With the absurd flow of information that we have nowadays, "
+"we are fastidious about the details and the selling process."
+msgstr ""
+
+#: /Users/pedro/Sites/Pessoal/hist.php:27
+#, php-format
+msgid ""
+"Para endurecer as Habilidades necessárias, tais como ser um negotiatior "
+"melhor e strucking melhores negócios, eu tornou-se um participante ativo do "
+"Movimento Empresa Júnior no Brasil, o primeiro sendo um analista %sEESC jr."
+"%s e, em seguida, um consultor de negócios em %sFEJESP%s. As pessoas tendem "
+"a trabalhar muito duro aqui, mas no geral eu fiz alguns bons amigos!"
+msgstr ""
+"To stiffen the necessary abilities, such as being a better negotiator and "
+"strucking better deals, I've became a active participant of the Junior "
+"Enterprise Movement in Brazil, first being a analyst at %sEESC jr.%s and "
+"then a business advisor at %sFEJESP%s. People tend to work really hard here, "
+"but overall I made some really good friends!"
+
+#: /Users/pedro/Sites/Pessoal/hist.php:29
+#, php-format
+msgid ""
+"To stiffen the necessary habilities, such as being a better negotiatior and "
+"strucking better deals, I've became a active participant of the Junior "
+"Enterprise Movement in Brazil, first being a analyst at %sEESC jr.%s and "
+"then a business advisor at %sFEJESP%s. People tend to work really hard here, "
+"but overall I made some really good friends!"
+msgstr ""
+
+#: /Users/pedro/Sites/Pessoal/hist.php:31
+msgid ""
+"Para me divertir, eu tento ler o máximo possível. Normalmente, eu li algo em "
+"torno de 60 livros por ano, incluindo pelo menos 30k páginas. Algumas "
+"pessoas gostam de sair e se embebedar, eu prefiro ficar bêbado e ler. Ow, e "
+"você pode perguntar: o que eu ler tanto? E eu vou te responder: um monte de "
+"livros técnicos, thrillers e, quando eu estou sentindo um pouco triste, "
+"alguns livros de negócios."
+msgstr ""
+"For fun, I try to read as much as possible. Usually, I read something around "
+"60 books a year, comprising at least 30k pages. Some people like to go out "
+"and get drunk, I prefer to get drunk and read. Ow, and you might ask: what "
+"do I read so much? And I'll answer you: a lot of technical books, thrillers "
+"and, when I'm felling a bit sad, some business books."
+
+#: /Users/pedro/Sites/Pessoal/hist.php:33
+msgid ""
+"For fun, I try to read as much as possible. Usually, I read something around "
+"60 books a year, comprising at least 30k pages. Some people like to go out "
+"and get drunk, I prefer to get drunk and read. Ow, and you might ask: what "
+"do I read so much? And I'll answer you: a lot of technical books, thrillers "
+"and, when I'm felling a bit sad, some business books."
+msgstr ""
+
+#: /Users/pedro/Sites/Pessoal/hist.php:35
+msgid ""
+"E como meu exercício físico, eu tenho escolhido para montar minha bicicle "
+"pelo menos duas vezes por semana nas trilhas de São Carlos / SP. Você "
+"provavelmente vai encontrar-me correndo em algum lugar cheio de poeira e "
+"suor ;)"
+msgstr ""
+"And as my physical exercise, I've choosen to ride my bicicle at least twice "
+"a week on the trails of São Carlos/SP. You'll probably find me running "
+"somewhere full of dust and sweat ;)"
+
+#: /Users/pedro/Sites/Pessoal/hist.php:37
+msgid ""
+"And as my physical exercise, I've choosen to ride my bicicle at least twice "
+"a week on the trails of São Carlos/SP. You'll probably find me running "
+"somewhere full of dust and sweat ;)"
+msgstr ""
+
+#: /Users/pedro/Sites/Pessoal/hist.php:122
+msgid "Citação"
+msgstr "Quote"
+
+#: /Users/pedro/Sites/Pessoal/hist.php:123
+msgid "'Seja humilde mas não se esconda dos seus méritos'"
+msgstr "'Be humble but do not hide from your merits'"
+
+#: /Users/pedro/Sites/Pessoal/hist.php:123
+msgid "Autor desconhecido"
+msgstr "Unknown author"
+
+#: /Users/pedro/Sites/Pessoal/index.php:10
+#, php-format
+msgid "Um breve texto sobre mim, consulte minha %sHistória%s."
+msgstr "Wanna know more? %sHistory%s."
+
+#: /Users/pedro/Sites/Pessoal/index.php:16
+#, php-format
+msgid "Olá! Sou Pedro Góes e atualmente sou C.E.O. no %sTrilha%s."
+msgstr "Hey! I'm Pedro Góes, C.E.O. @ %sTrilha%s"
+
+#: /Users/pedro/Sites/Pessoal/index.php:20
+msgid "Artigos"
+msgstr "Articles"
+
+#: /Users/pedro/Sites/Pessoal/index.php:21
+#, php-format
+msgid "A maioria estão no %sblog oficial do Trilha%s."
+msgstr "Mostly at our %scompany blog%s."
+
+#: /Users/pedro/Sites/Pessoal/index.php:21
+msgid "Escritas independentes também podem ser vistas abaixo:"
+msgstr "Independent writing can be found below:"
+
+#: /Users/pedro/Sites/Pessoal/index.php:35
+msgid "Idiomas"
+msgstr "Idioms"
+
+#: /Users/pedro/Sites/Pessoal/index.php:37
+#: /Users/pedro/Sites/Pessoal/index.php:49
+msgid "Português"
+msgstr "Portuguese"
+
+#: /Users/pedro/Sites/Pessoal/index.php:38
+#: /Users/pedro/Sites/Pessoal/index.php:50
+msgid "Inglês"
+msgstr "English"
+
+#: /Users/pedro/Sites/Pessoal/index.php:39
+msgid "Espanhol"
+msgstr "Spanish"
+
+#: /Users/pedro/Sites/Pessoal/index.php:40
+msgid "Alemão"
+msgstr "German"
+
+#: /Users/pedro/Sites/Pessoal/index.php:41
+msgid "Francês"
+msgstr "French"
+
+#: /Users/pedro/Sites/Pessoal/index.php:46
+msgid "Currículo"
+msgstr "Curriculum"
+
+#: /Users/pedro/Sites/Pessoal/index.php:58
+msgid "Me procurando em algum lugar?"
+msgstr "Trying to find me?"
+
+#: /Users/pedro/Sites/Pessoal/index.php:62
+msgid "'Vovô Kiko, descanse em paz no céu. Sempre lhe amaremos muito.'"
+msgstr "'Grandpa, rest in peace. We will always love you.'"
+
+#~ msgid "Um"
+#~ msgstr "Um"

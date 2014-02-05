@@ -3,7 +3,7 @@
 	$.fn.ajax = function(method) {
 
 		// Control variables
-		var contentTag = "#content", fileType = ".html";
+		var contentTag = "#content", fileType = ".php";
 		var loadingHtml = '<img src="images/128-loading.gif" class="loadingBike" alt="Carregando..." />';
 		var $mainContent = $(contentTag), $loadingContent = $(loadingHtml);
 
@@ -38,7 +38,7 @@
 			 */
 			hashStartLoad: function() {
 
-			    var hash = window.location.hash.substring(1);
+			    var hash = window.location.hash.replace(/#(.*)\??.*/gi, "$1");
 			    
 			    if (hash) {
 			        $mainContent.fadeOut(300, function() {
@@ -59,34 +59,6 @@
 			 */
 			hashDidLoad: function(newHash) {
 				// Custom code that may need to be executed onload
-				$("body").find("." + $(".selectedLanguage").attr("data-block")).show(0).siblings("section").hide(0);
-
-				/**
-				 * HISTORY
-				 * @type {string}
-				 */
-				if (newHash == "historia") {
-					if ( ! isMobile.any() ) {
-				
-						var languages = $(".languages ul").gridster({
-						    widget_margins: [5, 5],
-						    widget_base_dimensions: [65, 35],
-						    min_cols: 6,
-						    min_rows: 10,
-						    avoid_overlapped_widgets: true,
-						}).data('gridster');
-						
-						var idioms = $(".idioms ul").gridster({
-						    widget_margins: [5, 5],
-						    widget_base_dimensions: [65, 35],
-						    min_cols: 6,
-						    min_rows: 10,
-						    avoid_overlapped_widgets: true,
-						}).data('gridster');
-					} else {
-						$(".dragBox").hide(0);
-					}
-				}
 			}
 		};
 
@@ -129,13 +101,6 @@ $(document).ready(function() {
 // ------------------------------------- DANGEROUS ------------------------------------- //
 
 	/**
-	 * Remove date picker reference
-	 */
-	$(".ui-datepicker a").live("click", function() {
-		$(this).removeAttr("href"); 
-	});
-
-	/**
 	 * Make sure that the hash is set
 	 */
 	$(window).ajax("hashConfigureSource", window.location.hash);
@@ -145,33 +110,25 @@ $(document).ready(function() {
 	/**
 	 * Always load content dinamically with few expections
 	 */
-	$(window).delegate("a", "click", function() {
+	$(document).on("click", "a", function(event) {
 
-		if ($(this).attr("target") == "_blank") {
-			return true;
+		if ($(this).attr("data-lock") != "yes") {
+
+			if ($(this).attr("target") == "_blank") return true;
+			if ($(this).hasClass("reloadPage")) return true;
+			
+			if ($(this).attr("href") != undefined) {
+				if ($(this).attr("href").substr(0, 10) == "javascript") return true; // Chosen
+				if ($(this).attr("href").substr(0, 7) == "http://") return true;
+				if ($(this).attr("href").substr(0, 8) == "https://") return true;
+				if ($(this).attr("href").substr(0, 7) == "mailto:") return true;
+				if ($(this).attr("href") == "/logout.php") return true;
+			}
+
+			$(this).ajax("hashConfigureSource", $(this).attr("href"));
 		}
 		
-		if ($(this).attr("href") != undefined) {
-
-			if ($(this).attr("href").substr(0, 7) == "http://") {
-				return true;
-			}
-			
-			if ($(this).attr("href").substr(0, 8) == "https://") {
-				return true;
-			}
-			
-			if ($(this).attr("href").substr(0, 7) == "mailto:") {
-				return true;
-			}
-			
-			if ($(this).attr("href") == "logout.php") {
-				return true;
-			}
-		}
-
-		$(this).ajax("hashConfigureSource", $(this).attr("href"));
-		
+		event.preventDefault();
 	    return false;
 	});
 

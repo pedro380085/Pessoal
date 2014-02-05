@@ -21,14 +21,64 @@ a:hover {
 }
 
 ul {
-	list-style: none;
+	list-style: georgian;
 	padding: 0;
 	margin: 0;
 }
 
-.english {
-	display: none;
+/* @group Company */
+
+.photo {
+	float: right;
 }
+
+.collumn {
+	width: 400px;
+}
+
+.collumn .onlyTitle {
+	padding-left: 10px;
+}
+
+.cv li {
+	width: 100%;
+}
+
+.photo {
+	float: right;
+	margin-left: 80px;
+	margin-bottom: 50px;
+	margin-right: 30px;
+	width: 256px;
+	text-align: center;
+}
+
+.photoImage {
+	width: 256px;
+	height: 256px;
+}
+
+.introduction {
+	font-size: 210%;
+	text-align: center;
+}
+
+.introduction p {
+	margin-top: 0.66em;
+}
+
+.languages {
+	padding-bottom: 20px;
+	border-bottom: 1px solid #C2C2C2;
+}
+
+.goDownABit {
+	margin-top: 40px;
+}
+
+/* @end */
+
+/* @group History */
 
 .upperBlock {
 	width: inherit;
@@ -75,66 +125,6 @@ ul {
 	float: right;
 }
 
-
-.onlyTitle ul {
-	border: 1px solid #333;
-	border-radius: 10px;
-	width: 382px;
-	overflow: hidden;
-}
-
-.onlyTitle li {
-	display: inline-block;
-	vertical-align: top;
-	background-color: #EBEBEB;
-	border: 1px solid #DBDBDB;
-	width: 169px;
-	box-shadow: inset 1px 1px #F7F7F7;
-	-moz-box-shadow: inset 1px 1px #F7F7F7;
-	-webkit-box-shadow: inset 1px 1px #F7F7F7;
-	color: #333;
-	margin: 0;
-	padding: 10px;
-	float: left;
-	text-align: center;
-	list-style: none;
-	cursor: pointer;
-}
-
-.onlyTitle li:hover {
-	box-shadow: none;
-	-moz-box-shadow: none;
-	-webkit-box-shadow: none;
-	background-color: #DFDFDF;
-}
-
-.cv li {
-	width: 100%;
-}
-
-.photo {
-	float: right;
-	margin-left: 80px;
-	margin-bottom: 50px;
-	margin-right: 30px;
-	width: 256px;
-	text-align: center;
-}
-
-.photoImage {
-	width: 256px;
-	height: 256px;
-}
-
-.introduction {
-	font-size: 210%;
-	text-align: center;
-}
-
-.introduction p {
-	margin-top: 0.66em;
-}
-
 .goBack {
 	text-align: left;
 	text-decoration: underline;
@@ -144,19 +134,13 @@ ul {
 	text-align: justify;
 }
 
-.fullText ul h2, .fullText ul h3 {
-	margin: 10px 7px;
+.fullText ul h2,
+.fullText ul h3 {
+	margin: 10px 0;
 }
 
 .fullText ul p {
-	margin: 0px 7px;
-}
-
-
-.fullText ul li {
-/*	border: 3px solid #333;*/
-	background-color: #C4C4C4;
-	padding: 0px;
+	margin: 5px 0;
 }
 
 .fullText .dragBox {
@@ -179,10 +163,6 @@ ul {
 	text-align: center;
 }
 
-.goDownABit {
-	margin-top: 30px;
-}
-
 .goBack:before {
 	content: "< ";
 	font-weight: bold;
@@ -194,6 +174,8 @@ ul {
 	font-size: 110%;
 }
 
-#creditosCitacao {
+#quoteCredits {
 	font-style: italic;
 }
+
+/* @end */

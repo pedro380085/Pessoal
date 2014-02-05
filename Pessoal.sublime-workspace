@@ -520,7 +520,7 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "index.php",
 			"settings":
 			{
 				"buffer_size": 4124,
@@ -528,7 +528,7 @@
 			}
 		},
 		{
-			"file": "historia.html",
+			"file": "hist.php",
 			"settings":
 			{
 				"buffer_size": 12867,
@@ -1058,7 +1058,7 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "index.php",
 					"settings":
 					{
 						"buffer_size": 4124,
@@ -1085,7 +1085,7 @@
 				},
 				{
 					"buffer": 1,
-					"file": "historia.html",
+					"file": "hist.php",
 					"settings":
 					{
 						"buffer_size": 12867,
@@ -1231,11 +1231,11 @@
 			],
 			[
 				"his",
-				"historia.html"
+				"hist.php"
 			],
 			[
 				"in",
-				"index.html"
+				"index.php"
 			],
 			[
 				"",
