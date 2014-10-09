@@ -13,7 +13,7 @@
 		<div class="collumn">
 			
 			<section class="introduction">
-				<p><?php echo sprintf(_("Olá! Sou Pedro Góes e atualmente sou C.E.O. no %sTrilha%s."), '<a target="_blank" href="http://grupotrilha.com.br/">', '</a>') ?></p>
+				<p><?php echo sprintf(_("Olá! Sou Pedro Góes, Sócio na %sTrilha%s."), '<a target="_blank" href="http://grupotrilha.com.br/">', '</a>') ?></p>
 			</section>
 			
             <section class="onlyTitle articles">

@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pessoal\n"
-"POT-Creation-Date: 2014-02-05 14:11+0100\n"
-"PO-Revision-Date: 2014-02-05 14:11+0100\n"
+"POT-Creation-Date: 2014-10-09 01:23-0300\n"
+"PO-Revision-Date: 2014-10-09 01:23-0300\n"
 "Last-Translator: Pedro Góes <pedro.pecanha.goes@gmail.com>\n"
 "Language-Team: \n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.3\n"
+"X-Generator: Poedit 1.6.9\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -161,8 +161,8 @@ msgstr "Wanna know more? %sHistory%s."
 
 #: /Users/pedro/Sites/Pessoal/index.php:16
 #, php-format
-msgid "Olá! Sou Pedro Góes e atualmente sou C.E.O. no %sTrilha%s."
-msgstr "Hey! I'm Pedro Góes, C.E.O. @ %sTrilha%s"
+msgid "Olá! Sou Pedro Góes, Sócio na %sTrilha%s."
+msgstr "Hey! I'm Pedro Góes, Partner @ %sTrilha%s"
 
 #: /Users/pedro/Sites/Pessoal/index.php:20
 msgid "Artigos"
