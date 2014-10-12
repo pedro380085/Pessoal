@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pessoal\n"
-"POT-Creation-Date: 2014-10-12 19:57-0300\n"
-"PO-Revision-Date: 2014-10-12 19:57-0300\n"
+"POT-Creation-Date: 2014-10-12 20:32-0300\n"
+"PO-Revision-Date: 2014-10-12 20:34-0300\n"
 "Last-Translator: Pedro Góes <pedro.pecanha.goes@gmail.com>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -154,6 +154,24 @@ msgstr "'Be humble but do not hide from your merits'"
 #: /Users/pedro/Sites/Pessoal/hist.php:114
 msgid "Autor desconhecido"
 msgstr "Unknown author"
+
+#: /Users/pedro/Sites/Pessoal/includes/html/header.php:29
+msgid ""
+"Pedro Góes, fundador da Trilha, empresa de produtos escaláveis e estudante "
+"de Engenharia na Universidade de São Paulo. Escritas sobre textos e "
+"percepções sobre a carreira profissional."
+msgstr ""
+"Pedro Góes, founder of Trilha, a scalable products company and engineering "
+"student at the University of São Paulo. Texts written about perceptions on "
+"the professional career."
+
+#: /Users/pedro/Sites/Pessoal/includes/html/header.php:30
+msgid ""
+"usp, artigos, empreendedor, profissional, carreiras, visão, opinião, "
+"aprendizado, crescimento"
+msgstr ""
+"usp, articles, entrepreneur, professional, career, vision, beliefs, "
+"learning, growth"
 
 #: /Users/pedro/Sites/Pessoal/index.php:10
 #, php-format

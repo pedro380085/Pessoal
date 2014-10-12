@@ -6,7 +6,7 @@
 	<div id="content">
 
         <section class="photo" id="photo">
-            <img src="images/pedro.png" alt="Eu" class="photoImage">
+            <img src="images/pedro.png" alt="Eu" class="image">
             <p><?php echo sprintf(_("Um breve texto sobre mim, consulte minha %sHistória%s."), '<a href="hist.php">', '</a>') ?></p>
         </section>
 

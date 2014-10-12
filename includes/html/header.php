@@ -24,6 +24,12 @@
 <head>
     <meta charset="utf-8">
     <title>Pedro Góes - Trilha, USP, Brasil</title>
+
+	<meta name='language' content='<?php echo $completeLang ?>'>
+	<meta name='description' content='<?php echo _("Pedro Góes, fundador da Trilha, empresa de produtos escaláveis e estudante de Engenharia na Universidade de São Paulo. Escritas sobre textos e percepções sobre a carreira profissional.") ?>'>
+	<meta name='keywords' content='<?php echo _("usp, artigos, empreendedor, profissional, carreiras, visão, opinião, aprendizado, crescimento") ?>'>
+	<meta name='robots' content='all'>
+	<meta name="viewport" content="width=device-width, maximum-scale=1.0" />
     
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>

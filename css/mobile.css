@@ -16,6 +16,11 @@
     	float: none;
     }
 
+    .photo .image {
+    	width: 80%;
+    	height: 80%;
+    }
+
     .photo,
     .collumn {
     	margin: 0 auto;
