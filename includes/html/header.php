@@ -31,10 +31,11 @@
     
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script>!window.jQuery && document.write(unescape('%3Cscript src="Presenca/js/jquery-1.7.2.min.js"%3E%3C/script%3E'))</script>
-    <script src="default.js" type="text/javascript" charset="utf-8"></script>
-    <script src="analytics.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/default.js" type="text/javascript"></script>
+    <script src="js/analytics.js" type="text/javascript"></script>
     
-    <link rel="stylesheet" href="default.css" type="text/css" />
+    <link rel="stylesheet" href="css/default.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/mobile.css" type="text/css" media="all" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     
     <link href="favicon.ico" rel="icon" type="image/x-icon" />

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pessoal\n"
-"POT-Creation-Date: 2014-10-09 01:23-0300\n"
-"PO-Revision-Date: 2014-10-09 01:23-0300\n"
+"POT-Creation-Date: 2014-10-12 19:57-0300\n"
+"PO-Revision-Date: 2014-10-12 19:57-0300\n"
 "Last-Translator: Pedro Góes <pedro.pecanha.goes@gmail.com>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: /Users/pedro/Sites/Pessoal\n"
 
 #: /Users/pedro/Sites/Pessoal/hist.php:8
+#: /Users/pedro/Sites/Pessoal/personal.php:8
 msgid "Voltar para página inicial"
 msgstr "Go back"
 
@@ -161,10 +162,11 @@ msgstr "Wanna know more? %sHistory%s."
 
 #: /Users/pedro/Sites/Pessoal/index.php:16
 #, php-format
-msgid "Olá! Sou Pedro Góes, Sócio na %sTrilha%s."
-msgstr "Hey! I'm Pedro Góes, Partner @ %sTrilha%s"
+msgid "Olá! Sou Pedro Góes,<br>Sócio na %sTrilha%s."
+msgstr "hey! I'm Pedro Góes,<br>Partner @ %sTrilha%s"
 
 #: /Users/pedro/Sites/Pessoal/index.php:20
+#: /Users/pedro/Sites/Pessoal/personal.php:15
 msgid "Artigos"
 msgstr "Articles"
 
@@ -177,33 +179,38 @@ msgstr "Mostly at our %scompany blog%s."
 msgid "Escritas independentes também podem ser vistas abaixo:"
 msgstr "Independent writing can be found below:"
 
-#: /Users/pedro/Sites/Pessoal/index.php:35
+#: /Users/pedro/Sites/Pessoal/index.php:31
+#, php-format
+msgid "Para uma série pessoal, veja minha página %sprivada%s."
+msgstr "For a personal series, check out my %sprivate%s page."
+
+#: /Users/pedro/Sites/Pessoal/index.php:37
 msgid "Idiomas"
 msgstr "Idioms"
 
-#: /Users/pedro/Sites/Pessoal/index.php:37
-#: /Users/pedro/Sites/Pessoal/index.php:49
+#: /Users/pedro/Sites/Pessoal/index.php:39
+#: /Users/pedro/Sites/Pessoal/index.php:50
 msgid "Português"
 msgstr "Portuguese"
 
-#: /Users/pedro/Sites/Pessoal/index.php:38
-#: /Users/pedro/Sites/Pessoal/index.php:50
+#: /Users/pedro/Sites/Pessoal/index.php:40
+#: /Users/pedro/Sites/Pessoal/index.php:51
 msgid "Inglês"
 msgstr "English"
 
-#: /Users/pedro/Sites/Pessoal/index.php:39
+#: /Users/pedro/Sites/Pessoal/index.php:41
 msgid "Espanhol"
 msgstr "Spanish"
 
-#: /Users/pedro/Sites/Pessoal/index.php:40
+#: /Users/pedro/Sites/Pessoal/index.php:42
 msgid "Alemão"
 msgstr "German"
 
-#: /Users/pedro/Sites/Pessoal/index.php:41
+#: /Users/pedro/Sites/Pessoal/index.php:43
 msgid "Francês"
 msgstr "French"
 
-#: /Users/pedro/Sites/Pessoal/index.php:46
+#: /Users/pedro/Sites/Pessoal/index.php:48
 msgid "Currículo"
 msgstr "Curriculum"
 
@@ -214,6 +221,27 @@ msgstr "Trying to find me?"
 #: /Users/pedro/Sites/Pessoal/index.php:62
 msgid "'Vovô Kiko, descanse em paz no céu. Sempre lhe amaremos muito.'"
 msgstr "'Grandpa, rest in peace. We will always love you.'"
+
+#: /Users/pedro/Sites/Pessoal/personal.php:11
+#, php-format
+msgid ""
+"Artigos escritos com referências exclusivas ao meu cunho pessoal. Se estiver "
+"procurando referências profissionais, favor seguir para minha página "
+"%sprofissional%s."
+msgstr ""
+"Articles written with unique references to my personal style. If you are "
+"looking for professional references, please proceed to my %sprofessional%s "
+"page."
+
+#: /Users/pedro/Sites/Pessoal/personal.php:13
+msgid ""
+"Como grande parte dos registros se estendem desde 2007, todos os artigos são "
+"ordenados por ordem cronológica. Atualizações são como novas publicações, "
+"automaticamente colocam o artigo no topo da lista."
+msgstr ""
+"As much of the records extend from 2007, all articles are sorted in "
+"chronological order. Updates are like new publications; automatically place "
+"the item on the list."
 
 #~ msgid "A brief story of myself"
 #~ msgstr "Uma rápida história"
