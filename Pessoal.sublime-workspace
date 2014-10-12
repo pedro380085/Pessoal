@@ -520,14 +520,6 @@
 	"buffers":
 	[
 		{
-			"file": "includes/html/header.php",
-			"settings":
-			{
-				"buffer_size": 1494,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "hist.php",
 			"settings":
 			{
@@ -536,10 +528,10 @@
 			}
 		},
 		{
-			"file": "includes/html/language.php",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 360,
+				"buffer_size": 2852,
 				"line_ending": "Unix"
 			}
 		},
@@ -736,11 +728,12 @@
 	},
 	"file_history":
 	[
+		"/Users/pedro/Sites/Pessoal/includes/html/header.php",
+		"/Users/pedro/Sites/Pessoal/includes/html/language.php",
 		"/Users/pedro/Sites/Pessoal/nmf-panel/index.html",
 		"/Users/pedro/Sites/Pessoal/nmf-panel/default.css",
 		"/Users/pedro/Sites/Pessoal/index.php",
 		"/Users/pedro/Sites/Pessoal/hist.php",
-		"/Users/pedro/Sites/Pessoal/includes/html/header.php",
 		"/Users/pedro/Sites/Pessoal/Pessoal.sublime-workspace",
 		"/Users/pedro/Sites/Pessoal/includes/header.php",
 		"/Users/pedro/Sites/Pessoal/includes/language.php",
@@ -862,8 +855,7 @@
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantWrapperViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/AppDelegate.m",
-		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/CheckViewCell.m",
-		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/PaperFoldMenuController/PaperFold/UIView+Screenshot.m"
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/CheckViewCell.m"
 	],
 	"find":
 	{
@@ -1078,23 +1070,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "includes/html/header.php",
+					"file": "hist.php",
 					"settings":
 					{
-						"buffer_size": 1494,
+						"buffer_size": 9902,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1494,
-								596
+								706,
+								706
 							]
 						],
 						"settings":
@@ -1109,44 +1101,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "hist.php",
+					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 9902,
+						"buffer_size": 2852,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								9902
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "includes/html/language.php",
-					"settings":
-					{
-						"buffer_size": 360,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								360,
-								360
+								665,
+								665
 							]
 						],
 						"settings":
@@ -1166,7 +1132,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "default.css",
 					"settings":
 					{
@@ -1774,6 +1740,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 257.0,
+	"side_bar_width": 207.0,
 	"status_bar_visible": true
 }

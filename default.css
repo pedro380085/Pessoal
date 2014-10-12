@@ -71,8 +71,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .articles {
-	padding-bottom: 20px;
-	border-bottom: 1px solid #C2C2C2;
+	padding-bottom: 10px;
+}
+
+hr.separator {
+	margin: 0;
+	padding: 0;
+	color: #C2C2C2;
 }
 
 .languages {
@@ -84,6 +89,15 @@ h1, h2, h3, h4, h5, h6 {
 
 .goDownABit {
 	margin-top: 40px;
+}
+
+/* @end */
+
+/* @group Personal */
+
+.personal {
+	text-align: justify;
+	padding-bottom: 20px;
 }
 
 /* @end */
