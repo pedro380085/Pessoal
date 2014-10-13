@@ -5,15 +5,15 @@
 		[
 			[
 				"font",
-				"font-weight"
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-bottom"
 			],
 			[
 				"margi",
 				"margin-bottom"
-			],
-			[
-				"pad",
-				"padding-left"
 			],
 			[
 				"fn",
@@ -528,18 +528,42 @@
 			}
 		},
 		{
-			"file": "index.php",
+			"file": "personal.php",
 			"settings":
 			{
-				"buffer_size": 2852,
+				"buffer_size": 1040,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "default.css",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 2390,
+				"buffer_size": 2797,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/html/header.php",
+			"settings":
+			{
+				"buffer_size": 2122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/default.css",
+			"settings":
+			{
+				"buffer_size": 2483,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/mobile.css",
+			"settings":
+			{
+				"buffer_size": 431,
 				"line_ending": "Unix"
 			}
 		}
@@ -728,6 +752,7 @@
 	},
 	"file_history":
 	[
+		"/Users/pedro/Sites/Pessoal/default.css",
 		"/Users/pedro/Sites/Pessoal/includes/html/header.php",
 		"/Users/pedro/Sites/Pessoal/includes/html/language.php",
 		"/Users/pedro/Sites/Pessoal/nmf-panel/index.html",
@@ -854,8 +879,7 @@
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/CheckViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantWrapperViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantViewController.m",
-		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/AppDelegate.m",
-		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/CheckViewCell.m"
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/AppDelegate.m"
 	],
 	"find":
 	{
@@ -863,7 +887,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 95.0,
 		"where_history":
 		[
 			"/Users/pedro/Sites/Pessoal",
@@ -875,6 +899,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pho",
+			"900px",
+			" charset=\"utf-8\"",
+			".css",
+			" target=\"_blank\" ",
+			"target=\"_blank\" ",
+			"just",
 			"Estúdio",
 			"includes/",
 			"lang",
@@ -995,14 +1026,7 @@
 			"50-arrow-left",
 			"50-search",
 			"50-calendar",
-			"50-check",
-			"50-star-filled",
-			"50-star-unfilled",
-			"50-delete",
-			"50-pen",
-			"50-plus",
-			"50-preferences",
-			"Favorito"
+			"50-check"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1070,7 +1094,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -1085,8 +1109,8 @@
 						"selection":
 						[
 							[
-								706,
-								706
+								230,
+								139
 							]
 						],
 						"settings":
@@ -1101,18 +1125,70 @@
 				},
 				{
 					"buffer": 1,
-					"file": "index.php",
+					"file": "personal.php",
 					"settings":
 					{
-						"buffer_size": 2852,
+						"buffer_size": 1040,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								665,
-								665
+								441,
+								441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 2797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "includes/html/header.php",
+					"settings":
+					{
+						"buffer_size": 2122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1175,
+								1175
 							]
 						],
 						"settings":
@@ -1128,32 +1204,57 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
-					"buffer": 2,
-					"file": "default.css",
+					"buffer": 4,
+					"file": "css/default.css",
 					"settings":
 					{
-						"buffer_size": 2390,
+						"buffer_size": 2483,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								921,
-								921
+								703,
+								690
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 762.0,
+						"translation.y": 354.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/mobile.css",
+					"settings":
+					{
+						"buffer_size": 431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1189,7 +1290,7 @@
 		"cols":
 		[
 			0.0,
-			0.65063001902,
+			0.580894110666,
 			1.0
 		],
 		"rows":
@@ -1214,6 +1315,22 @@
 		"selected_items":
 		[
 			[
+				"mbi",
+				"css/mobile.css"
+			],
+			[
+				"defa",
+				"css/default.css"
+			],
+			[
+				"his",
+				"hist.php"
+			],
+			[
+				"perso",
+				"personal.php"
+			],
+			[
 				"lan",
 				"includes/html/language.php"
 			],
@@ -1232,14 +1349,6 @@
 			[
 				"heade",
 				"includes/header.php"
-			],
-			[
-				"his",
-				"hist2.php"
-			],
-			[
-				"defa",
-				"default.html"
 			],
 			[
 				"en",
@@ -1716,14 +1825,6 @@
 			[
 				"cha",
 				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/ChatViewController.m"
-			],
-			[
-				"regi",
-				"register.php"
-			],
-			[
-				"cara",
-				"cardapio.php"
 			]
 		],
 		"width": 0.0
