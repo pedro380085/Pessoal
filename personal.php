@@ -13,11 +13,7 @@
             <p><?php echo _("Como grande parte dos registros se estendem desde 2007, todos os artigos são ordenados por ordem cronológica. Atualizações são como novas publicações, automaticamente colocam o artigo no topo da lista.") ?></p>
 
             <h2><?php echo _("Artigos") ?></h2>
-			<ul>
-				<a href="articles/PersonalLifeandParties.html" target="_blank">
-                    <li>Personal Life and Parties</li>
-                </a>
-			</ul>
+			<ul></ul>
         </section>
 
         <hr class="separator">
