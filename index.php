@@ -23,9 +23,6 @@
                     <a href="articles/GoesLifestyle.html" target="_blank">
                         <li>Góes Lifestyle</li>
                     </a>
-                    <a href="articles/GoesLifestyle.html" target="_blank">
-                        <li>MCP (Coming)</li>
-                    </a>
                 </ul>
 
                 <p><?php echo sprintf(_("Para uma série pessoal, veja minha página %sprivada%s."), '<a href="personal.php">', '</a>') ?></p>

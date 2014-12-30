@@ -1,1 +1,4 @@
 stuff
+*.espressostorage
+
+*.sublime-workspace
