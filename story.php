@@ -17,7 +17,7 @@
             <p><?php echo _("Algo importante que sempre me interessou é saber o que grandes empresários realizaram em suas vidas quando mais jovens. Inclusive como forma de documentar minhas conquistas, cito abaixo meus anos a partir do mais recente:") ?></p>
 
             <ul class="yearList">
-                <li id="y23"><?php echo _("Com 23 anos, concretizamos nosso segundo ano com crescimento de 9x/ano na InEvent. Expandimos nossa equipe de 3 para 10 pessoas. Trouxemos grandes clientes a bordo, como Endeavor, Hospital Albert Einstein, Stefanini, GMIC, SEBRAE, GSMD, Monsanto, etc. Fomos premiados internacionalmente e nacionalmente, tanto no Brasil quanto nos Estados Unidos. Me mudei para São Paulo. Comecei a aprender chinês de uma vez por todas.") ?></li>
+                <li id="y23"><?php echo _("Com 23 anos, concretizamos nosso segundo ano com crescimento de 9x na InEvent. Expandimos nossa equipe de 3 para 10 pessoas. Trouxemos grandes clientes a bordo, como Endeavor, Hospital Albert Einstein, Stefanini, GMIC, SEBRAE, GSMD, Monsanto, etc. Fomos premiados internacionalmente e nacionalmente, tanto no Brasil quanto nos Estados Unidos. Me mudei para São Paulo. Comecei a aprender chinês de uma vez por todas.") ?></li>
 
                 <li id="y22"><?php echo _("Com 22 anos, fomos selecionados para o Lisbon Challenge, programa de aceleração de 3 meses na Europa. O programa, que cobria apenas os custos locais, nos forçava a investir de nossos próprios recursos nas passagens e na moradia. Por incrível que fosse, o valor era exatamente o que tínhamos recebido de nosso primeiro cliente. Continuamos desenvolvendo o aplicativo e no final do ano conseguimos nosso segundo cliente, a Rakuten.") ?></li>
 
