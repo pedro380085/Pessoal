@@ -5,7 +5,7 @@
 	
 	<div id="content">
 
-		<p class="goBack"><a href="index.php"><?php echo _("Voltar para página inicial") ?></a></p>
+		<p class="goBack"><a href="index.php"><?php echo _("Voltar para início") ?></a></p>
 
         <section class="personal">
             <p><?php echo sprintf(_("Artigos escritos com referências exclusivas ao meu cunho pessoal. Se estiver procurando referências profissionais, favor seguir para minha página %sprofissional%s."), '<a href="index.php">', '</a>') ?></p>

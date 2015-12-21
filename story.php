@@ -5,7 +5,7 @@
 	
 	<div id="content">
 
-		<p class="goBack"><a href="index.php"><?php echo _("Voltar para página inicial") ?></a></p>
+		<p class="goBack"><a href="index.php"><?php echo _("Voltar para início") ?></a></p>
 		
 		<section class="intro" id="intro">
 			<h2><?php echo _("Eu") ?></h2>

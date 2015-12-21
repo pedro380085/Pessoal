@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pessoal\n"
-"POT-Creation-Date: 2015-12-21 18:24-0200\n"
-"PO-Revision-Date: 2015-12-21 18:24-0200\n"
+"POT-Creation-Date: 2015-12-21 18:37-0200\n"
+"PO-Revision-Date: 2015-12-21 18:37-0200\n"
 "Last-Translator: Pedro Góes <goes@inevent.us>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -95,7 +95,7 @@ msgstr "'Grandpa, rest in peace. We will always love you.'"
 
 #: /Users/pedro/Sites/Pessoal/personal.php:8
 #: /Users/pedro/Sites/Pessoal/story.php:8
-msgid "Voltar para página inicial"
+msgid "Voltar para início"
 msgstr "Go back"
 
 #: /Users/pedro/Sites/Pessoal/personal.php:11
