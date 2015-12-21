@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pessoal\n"
-"POT-Creation-Date: 2015-12-21 18:06-0200\n"
-"PO-Revision-Date: 2015-12-21 18:06-0200\n"
+"POT-Creation-Date: 2015-12-21 18:09-0200\n"
+"PO-Revision-Date: 2015-12-21 18:10-0200\n"
 "Last-Translator: Pedro Góes <goes@inevent.us>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -40,8 +40,8 @@ msgstr "Wanna know more? %s Story %s."
 
 #: /Users/pedro/Sites/Pessoal/index.php:16
 #, php-format
-msgid "Sou Pedro Góes,<br>CEO na %s InEvent %s."
-msgstr "I'm Pedro Góes,<br>CEO @ %s InEvent %s"
+msgid "Sou Pedro Góes,<br>CEO na %sInEvent%s."
+msgstr "hey! I’m Pedro Góes,<br>CEO @ %sInEvent%s"
 
 #: /Users/pedro/Sites/Pessoal/index.php:20
 #: /Users/pedro/Sites/Pessoal/personal.php:15
@@ -50,13 +50,13 @@ msgstr "Articles"
 
 #: /Users/pedro/Sites/Pessoal/index.php:21
 #, php-format
-msgid "A maioria estão no meu %s Pulse %s."
-msgstr "Mostly at my %s Pulse %s."
+msgid "A maioria estão no meu %sPulse%s."
+msgstr "Mostly at my %sPulse%s."
 
 #: /Users/pedro/Sites/Pessoal/index.php:21
 #, php-format
-msgid "Nosso vlog semanal está no %s Youtube %s."
-msgstr "Our weekly blog is in %s Youtube %s."
+msgid "Nosso vlog semanal está no %sYoutube%s."
+msgstr "Our weekly blog is in %sYoutube%s."
 
 #: /Users/pedro/Sites/Pessoal/index.php:21
 msgid "Escritas independentes também podem ser vistas abaixo:"
@@ -64,8 +64,8 @@ msgstr "Independent writing can be found below:"
 
 #: /Users/pedro/Sites/Pessoal/index.php:28
 #, php-format
-msgid "Para uma série pessoal, veja minha página %s privada %s."
-msgstr "For a personal series, check out my %s private %s page."
+msgid "Para uma série pessoal, veja minha página %sprivada%s."
+msgstr "For a personal series, check out my %sprivate%s page."
 
 #: /Users/pedro/Sites/Pessoal/index.php:34
 msgid "Idiomas"

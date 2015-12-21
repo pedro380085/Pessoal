@@ -13,19 +13,19 @@
 		<div class="collumn">
 			
 			<section class="headline">
-				<p><?php echo sprintf(_("Sou Pedro Góes,<br>CEO na %s InEvent %s."), '<a target="_blank" href="https://inevent.us/">', '</a>') ?></p>
+				<p><?php echo sprintf(_("Sou Pedro Góes,<br>CEO na %sInEvent%s."), '<a target="_blank" href="https://inevent.us/">', '</a>') ?></p>
 			</section>
 			
             <section class="onlyTitle articles">
                 <h2><?php echo _("Artigos") ?></h2>
-                <p><?php echo sprintf(_("A maioria estão no meu %s Pulse %s."), '<a target="_blank" href="https://www.linkedin.com/in/pedrogoes">', '</a>') ?> <?php echo sprintf(_("Nosso vlog semanal está no %s Youtube %s."), '<a target="_blank" href="https://www.youtube.com/playlist?list=PLKSCgjEf9poudgoMl07SM97Ui_fP_DCPz">', '</a>') ?> <?php echo _("Escritas independentes também podem ser vistas abaixo:") ?></p>
+                <p><?php echo sprintf(_("A maioria estão no meu %sPulse%s."), '<a target="_blank" href="https://www.linkedin.com/in/pedrogoes">', '</a>') ?> <?php echo sprintf(_("Nosso vlog semanal está no %sYoutube%s."), '<a target="_blank" href="https://www.youtube.com/playlist?list=PLKSCgjEf9poudgoMl07SM97Ui_fP_DCPz">', '</a>') ?> <?php echo _("Escritas independentes também podem ser vistas abaixo:") ?></p>
                 <ul>
                     <a href="articles/GoesLifestyle.html" target="_blank">
                         <li>Góes Lifestyle</li>
                     </a>
                 </ul>
 
-                <p><?php echo sprintf(_("Para uma série pessoal, veja minha página %s privada %s."), '<a href="personal.php">', '</a>') ?></p>
+                <p><?php echo sprintf(_("Para uma série pessoal, veja minha página %sprivada%s."), '<a href="personal.php">', '</a>') ?></p>
             </section>
 
             <hr class="separator">
