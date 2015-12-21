@@ -7,7 +7,7 @@
 
         <section class="photo" id="photo">
             <img src="images/me.png" alt="Eu" class="image">
-            <p><?php echo sprintf(_("Um breve texto sobre mim, consulte minha %s História %s."), '<a href="story.php">', '</a>') ?></p>
+            <p><?php echo sprintf(_("Um breve texto sobre mim, consulte minha %sHistória%s."), '<a href="story.php">', '</a>') ?></p>
         </section>
 
 		<div class="collumn">

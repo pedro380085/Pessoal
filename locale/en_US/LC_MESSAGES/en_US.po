@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pessoal\n"
-"POT-Creation-Date: 2015-12-21 18:09-0200\n"
-"PO-Revision-Date: 2015-12-21 18:10-0200\n"
+"POT-Creation-Date: 2015-12-21 18:11-0200\n"
+"PO-Revision-Date: 2015-12-21 18:11-0200\n"
 "Last-Translator: Pedro Góes <goes@inevent.us>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -35,8 +35,8 @@ msgstr ""
 
 #: /Users/pedro/Sites/Pessoal/index.php:10
 #, php-format
-msgid "Um breve texto sobre mim, consulte minha %s História %s."
-msgstr "Wanna know more? %s Story %s."
+msgid "Um breve texto sobre mim, consulte minha %sHistória%s."
+msgstr "Wanna know more? %sStory%s."
 
 #: /Users/pedro/Sites/Pessoal/index.php:16
 #, php-format
