@@ -23,11 +23,11 @@
 <html lang="<?php echo $lang ?>">
 <head>
     <meta charset="utf-8">
-    <title>Pedro Góes - Trilha, USP, Brasil</title>
+    <title>Pedro Góes - InEvent</title>
 
 	<meta name='language' content='<?php echo $completeLang ?>'>
-	<meta name='description' content='<?php echo _("Pedro Góes, fundador da Trilha, empresa de produtos escaláveis e estudante de Engenharia na Universidade de São Paulo. Escritas sobre textos e percepções sobre a carreira profissional.") ?>'>
-	<meta name='keywords' content='<?php echo _("usp, artigos, empreendedor, profissional, carreiras, visão, opinião, aprendizado, crescimento") ?>'>
+	<meta name='description' content='<?php echo _("Pedro Góes, fundador da InEvent, um aplicativo inteligente conexões e interações em eventos. Formado na Universidade de São Paulo. Vlog semanal, textos sobre estratégia e percepções sobre a carreira profissional.") ?>'>
+	<meta name='keywords' content='<?php echo _("inevent, startups, estratégia, usp, empreendedor, profissional, carreiras, opinião, aprendizado, crescimento") ?>'>
 	<meta name='robots' content='all'>
 	<meta name="viewport" content="width=device-width, maximum-scale=1.0" />
     
@@ -36,7 +36,6 @@
     <![endif]-->
     
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script>!window.jQuery && document.write(unescape('%3Cscript src="Presenca/js/jquery-1.7.2.min.js"%3E%3C/script%3E'))</script>
     <script src="js/default.js" type="text/javascript"></script>
     <script src="js/analytics.js" type="text/javascript"></script>
     

@@ -21,7 +21,6 @@ a:hover {
 
 ul {
 	list-style: georgian;
-	padding: 0;
 	margin: 0;
 }
 
@@ -55,6 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 .photo .image {
 	width: 256px;
 	height: 256px;
+    border-radius: 128px;
 }
 
 .introduction {
@@ -109,6 +109,7 @@ hr.separator {
 	cursor: pointer;
 	background-color: inherit;
 	overflow: hidden;
+    padding-bottom: 15px;
 }
 
 .upperBlock img {
@@ -191,6 +192,10 @@ hr.separator {
 	color: #3F3F3F;
 	font-weight: bold;
 	font-size: 110%;
+}
+
+.yearList li {
+    margin: 1em 0;
 }
 
 #quoteCredits {

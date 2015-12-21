@@ -9,22 +9,40 @@
 		
 		<section class="intro" id="intro">
 			<h2><?php echo _("Eu") ?></h2>
+
+            <p class="subHeader"><?php echo _("Uma rápida história") ?></p>
 			
             <p><?php echo _("Quando escrevi essa página pela primeira vez, optei por descrever em detalhes todas minhas conquistas nos últimos anos mas, realmente, quem se importa? A programação se tornou um hábito diário desde que completei quinze anos e, se me perguntar, é algo que tenho grande aptidão. Mas no final, não importa o que se sabe programar, mas sim para que sabe programar.") ?></p>
-            
-            <p class="subHeader"><?php echo _("Uma rápida história") ?></p>
-            
-            <p><?php echo sprintf(_("Quando estava no colégio, eu estudei pra caramba. Você vê, no Brasil as melhores universidades são públicas, totalmente financiadas pelo governo e abertas a qualquer pessoa disposta a fazer os exames de admissão. Eu amava tanto escrever código mas, ainda assim, tive que aprender todos os assuntos desnecessários para que pudesse entrar uma boa universidade e trabalhar apenas com programação. E assim me tornei um aluno da %sUSP%s."), '<a href="http://www5.usp.br/">', '</a>') ?></p>
-
-            <p><?php echo sprintf(_("No início, tudo foi incrível. Finalmente tinha a liberdade que sempre quis (não só eu estava livre da escola, mas também comecei a viver por mim mesmo) mas, como todos os truques de mágica, as coisas não ficam mágicas para sempre. O curso em si foi um ajuste ruim para mim, porque queria ser um engenheiro de software e não um engenheiro de computação. A diferença na redação pode ser pequeno, mas o conteúdo certamente não é, e assim, depois de dois anos, eu estava realmente frustado. Já tinha fundado a minha segunda empresa (%sTrilha%s) com um colega de classe, mas a minha vida acadêmica necessitava de mudanças, então eu decidi fazer um programa de intercâmbio (CSF) por um ano. Fui aprovado, mas infelizmente não foi para a universidade que queria, então recusei a oferta e me aproximei do Brasil como o ambiente para crescer profissionalmente."), '<a href="http://grupotrilha.com.br/">', '</a>') ?></p>
 
             <p><?php echo _("Mas nada disso importa quando você decide se tornar CEO de alguma empresa. Na nossa, criamos produtos com base em tecnologia de ponta e, mesmo trabalhando dia e noite nele, as pessoas realmente não parece se importar. E elas estão certas. Com o fluxo absurdo de informação que temos hoje em dia, somos exigentes com os detalhes e o processo de venda, para atingir soluções claras para consumidores.") ?></p>
 
-            <p><?php echo sprintf(_("Para endurecer as habilidades necessárias, tais como negociar melhor e obter melhores oportunidades, tornei-me um participante ativo do Movimento Empresa Júnior no Brasil, primeiro sendo um analista %sEESC jr.%s e, em seguida, um consultor de negócios na %sFEJESP%s. As pessoas tendem a trabalhar muito duro em ambas, mas no geral fiz alguns bons amigos!"), '<a href="http://www.eesc.usp.br/eescjr/">', '</a>', '<a href="http://www.fejesp.org.br/">', '</a>') ?></p>
+            <p><?php echo _("Algo importante que sempre me interessou é saber o que grandes pessoas realizaram em suas vidas quando mais jovens. Inclusive como forma de documentar minhas conquistas, cito abaixo meus anos em ordem:") ?></p>
 
-            <p><?php echo _("Para me divertir, tento ler o máximo possível. Normalmente, leio algo em torno de 60 livros por ano, incluindo pelo menos 30 mil páginas. Algumas pessoas gostam de sair e se embebedar, eu prefiro ficar bêbado e ler. Ow, e você pode perguntar: o que tanto lê? Te respondo: um monte de livros técnicos, thrillers e, quando eu estou um pouco entediado, alguns livros de negócios.") ?></p>
+            <ul class="yearList">
+                <li><?php echo _("Com 23 anos, concretizamos um ano com crescimento de 9x na InEvent.") ?></li>
 
-            <p><?php echo _("E como exercício físico, tenho escolhido andar de mountain-bike pelo menos duas vezes por semana nas trilhas de São Carlos / SP. Você provavelmente vai me encontrar correndo em algum lugar, cheio de poeira e suor ;)") ?></p>
+                <li><?php echo _("Com 22 anos,") ?></li>
+
+                <li><?php echo _("Com 21 anos, o Garça não estava indo muito bem e aceitamos fazer um projeto de site para inscrições para uma semana acadêmica da USP. O sistema ficou pronto em menos de 10 dias e recebemos incríveis 100 reais de pagamento. Continuamos com o aplicativo . No final do ano, decidimos ") ?></li>
+
+                <li><?php echo sprintf(_("Com 20 anos, Para endurecer as habilidades necessárias, tais como negociar melhor e obter melhores oportunidades, tornei-me um participante ativo do Movimento Empresa Júnior no Brasil, primeiro sendo um analista %sEESC jr.%s e, em seguida, um consultor de negócios na %sFEJESP%s. As pessoas tendem a trabalhar muito duro em ambas, mas no geral fiz alguns bons amigos! Eu e o Nivaldo fundamos o Garça neste ano, um aplicativo que permitia as pessoas pedirem sem o garçom, inclusive podendo fazer isto antes de chegarem ao restaurante. Ao longo de nossa jornada conseguimos cerca de 10 clientes, sendo o principal o Downtown Bar, o bar empreendedor de São Carlos."), '<a href="http://www.eesc.usp.br/eescjr/">', '</a>', '<a href="http://www.fejesp.org.br/">', '</a>') ?></li>
+
+                <li><?php echo sprintf(_("Com 19 anos, finalmente tinha a liberdade que sempre quis (não só eu estava livre da escola, mas também comecei a viver por mim mesmo) mas, como todos os truques de mágica, as coisas não ficam mágicas para sempre. O curso em si foi um ajuste ruim para mim, porque queria ser um engenheiro de software e não um engenheiro de computação. A diferença na redação pode ser pequeno, mas o conteúdo certamente não é, e assim, depois de dois anos, eu estava realmente frustado. Já tinha fundado a minha segunda empresa (%sTrilha%s) com um colega de classe, mas a minha vida acadêmica necessitava de mudanças, então eu decidi fazer um programa de intercâmbio (CSF) por um ano. Fui aprovado, mas infelizmente não foi para a universidade que queria, então recusei a oferta e me aproximei do Brasil como o ambiente para crescer profissionalmente."), '<a href="http://grupotrilha.com.br/">', '</a>') ?></li>
+
+                <li><?php echo sprintf(_("Com 18 anos, Quando estava no colégio, eu estudei pra caramba. Você vê, no Brasil as melhores universidades são públicas, totalmente financiadas pelo governo e abertas a qualquer pessoa disposta a fazer os exames de admissão. Eu amava tanto escrever código mas, ainda assim, tive que aprender todos os assuntos desnecessários para que pudesse entrar uma boa universidade e trabalhar apenas com programação. E assim me tornei um aluno da %sUSP%s."), '<a href="http://www5.usp.br/">', '</a>') ?></li>
+
+                <li><?php echo _("Com 17 anos, o AccountPremium chegou a seu topo com 150tb de downloads e 10 mil usuários ativos em um único mês. ") ?></li>
+
+                <li><?php echo _("Com 16 anos") ?></li>
+
+                <li><?php echo _("Com 15 anos, o Megaupload bloqueou todas as contas premium que estávamos compartilhando. Sem solução, apresentei o problema para a comunidade e um usuário (que acabaria se tornando meu sócio) sugeriu criarmos um <i>proxy</i>. Sem saber o que era aquilo, pesquisei e acabei descobrindo que era basicamente um <i>middleman</i>. Criamos então o AccountPremium. Felipe entrou com a parte de programação e eu trouxe os clientes. Nessa época fechamos o ano com") ?></li>
+
+                <li><?php echo _("Com 14 anos, me envolvi em uma comunidade no Orkut que oferecia contas premium no Megaupload. Participei de um grupo que depositava 5 reais na conta do criador do tópico e esse comprava uma conta premium para nós dividirmos. Funcionava super bem! Quando o criador decidiu sair do negócio, resolvi assumir e o negócio cresceu para mais de 150 pessoas, o que me trazia 300 reais mensais de lucro.") ?></li>
+
+                <li><?php echo _("Com 13 anos, comprei uma churrasqueira nas férias com dinheiro emprestado do meu pai e vendia churrasquinho na frente do açougue da família. No final paguei a churrasqueira e ainda fiquei com 50 reais!") ?></li>
+
+                <li><?php echo _("Com 12 anos, batia tazos com meus colegas (aqueles da Elma Chips) durante o recreio e depois revendia para eles os que achei. Parei quando a coordenadora ") ?></li>
+            </ul>
 
 		</section>
 		
@@ -45,16 +63,6 @@
                 <li data-row="4" data-col="5" data-sizex="2" data-sizey="5">
                     <h3>Espanhol</h3>
                     <p>Intermediário - Diplomas de Espanhol como Língua Estrangeira (DELE) [Mai/2009]</p>
-                </li>
-
-                <li data-row="4" data-col="9" data-sizex="2" data-sizey="5">
-                    <h3>Alemão</h3>
-                    <p>3 semestres de estudo no instituto Goethe [segundo semestre de 2009 até o final de 2010]</p>
-                </li>
-
-                <li data-row="6" data-col="3" data-sizex="4" data-sizey="3">
-                    <h3>Francês</h3>
-                    <p>2 semestres de estudo oferecidos pelo CCInt-USP [início no segundo semestre de 2011]</p>
                 </li>
             </ul>
         </section>

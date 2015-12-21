@@ -528,18 +528,10 @@
 			}
 		},
 		{
-			"file": "personal.php",
-			"settings":
-			{
-				"buffer_size": 1040,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 2797,
+				"buffer_size": 2651,
 				"line_ending": "Unix"
 			}
 		},
@@ -752,6 +744,7 @@
 	},
 	"file_history":
 	[
+		"/Users/pedro/Sites/Pessoal/personal.php",
 		"/Users/pedro/Sites/Pessoal/default.css",
 		"/Users/pedro/Sites/Pessoal/includes/html/header.php",
 		"/Users/pedro/Sites/Pessoal/includes/html/language.php",
@@ -878,8 +871,7 @@
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/OrderItemViewCell.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/CheckViewController.m",
 		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantWrapperViewController.m",
-		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantViewController.m",
-		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/AppDelegate.m"
+		"/Users/pedro/Sites/PedidoNaRede/44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantViewController.m"
 	],
 	"find":
 	{
@@ -887,7 +879,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 95.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"/Users/pedro/Sites/Pessoal",
@@ -1094,7 +1086,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1125,18 +1117,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "personal.php",
+					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 1040,
+						"buffer_size": 2651,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								441,
-								441
+								1137,
+								1137
 							]
 						],
 						"settings":
@@ -1144,39 +1136,13 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 204.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "index.php",
-					"settings":
-					{
-						"buffer_size": 2797,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								49,
-								49
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "includes/html/header.php",
 					"settings":
 					{
@@ -1187,8 +1153,8 @@
 						"selection":
 						[
 							[
-								1175,
-								1175
+								554,
+								554
 							]
 						],
 						"settings":
@@ -1208,7 +1174,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "css/default.css",
 					"settings":
 					{
@@ -1234,7 +1200,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "css/mobile.css",
 					"settings":
 					{

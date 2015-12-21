@@ -6,19 +6,19 @@
 	<div id="content">
 
         <section class="photo" id="photo">
-            <img src="images/pedro.png" alt="Eu" class="image">
+            <img src="images/me.png" alt="Eu" class="image">
             <p><?php echo sprintf(_("Um breve texto sobre mim, consulte minha %sHistória%s."), '<a href="hist.php">', '</a>') ?></p>
         </section>
 
 		<div class="collumn">
 			
 			<section class="introduction">
-				<p><?php echo sprintf(_("Olá! Sou Pedro Góes,<br>Sócio na %sTrilha%s."), '<a target="_blank" href="http://grupotrilha.com.br/">', '</a>') ?></p>
+				<p><?php echo sprintf(_("Sou Pedro Góes,<br>CEO na %sInEvent%s."), '<a target="_blank" href="https://inevent.us/">', '</a>') ?></p>
 			</section>
 			
             <section class="onlyTitle articles">
                 <h2><?php echo _("Artigos") ?></h2>
-                <p><?php echo sprintf(_("A maioria estão no %sblog oficial do Trilha%s."), '<a target="_blank" href="http://grupotrilha.com.br/blog/">', '</a>') ?> <?php echo _("Escritas independentes também podem ser vistas abaixo:") ?></p>
+                <p><?php echo sprintf(_("A maioria estão no meu %sPulse%s."), '<a target="_blank" href="https://www.linkedin.com/in/pedrogoes">', '</a>') ?> <?php echo sprintf(_("Nosso vlog semanal está no %sYoutube%s."), '<a target="_blank" href="https://www.youtube.com/playlist?list=PLKSCgjEf9poudgoMl07SM97Ui_fP_DCPz">', '</a>') ?> <?php echo _("Escritas independentes também podem ser vistas abaixo:") ?></p>
                 <ul>
                     <a href="articles/GoesLifestyle.html" target="_blank">
                         <li>Góes Lifestyle</li>
@@ -36,8 +36,6 @@
 					<a href="hist.php"><li><?php echo _("Português") ?></li></a>
 					<a href="hist.php"><li><?php echo _("Inglês") ?></li></a>
 					<a href="hist.php"><li><?php echo _("Espanhol") ?></li></a>
-					<a href="hist.php"><li><?php echo _("Alemão") ?></li></a>
-					<a href="hist.php"><li><?php echo _("Francês") ?></li></a>
 				</ul>
 			</section>
 			
