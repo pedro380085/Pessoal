@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pessoal\n"
-"POT-Creation-Date: 2015-12-21 18:11-0200\n"
-"PO-Revision-Date: 2015-12-21 18:11-0200\n"
+"POT-Creation-Date: 2015-12-21 18:18-0200\n"
+"PO-Revision-Date: 2015-12-21 18:18-0200\n"
 "Last-Translator: Pedro Góes <goes@inevent.us>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -17,12 +17,12 @@ msgstr ""
 
 #: /Users/pedro/Sites/Pessoal/includes/html/header.php:29
 msgid ""
-"Pedro Góes, fundador da InEvent, um aplicativo inteligente para conexões e "
-"interações em eventos. Formado na Universidade de São Paulo. Vlog semanal, "
+"Pedro Góes, fundador da InEvent, um aplicativo inteligente com conexões e "
+"interações para eventos. Formado na Universidade de São Paulo. Vlog semanal, "
 "textos sobre estratégia e percepções sobre a carreira profissional."
 msgstr ""
 "Pedro Góes, founder of InEvent, a smart application with connections and "
-"interactions in events. Formed at the University of Sao Paulo. Weekly vlog, "
+"interactions for events. Formed at the University of Sao Paulo. Weekly vlog, "
 "texts on strategy and perceptions about the professional career."
 
 #: /Users/pedro/Sites/Pessoal/includes/html/header.php:30
