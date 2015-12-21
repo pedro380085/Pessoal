@@ -26,7 +26,7 @@
     <title>Pedro Góes - InEvent</title>
 
 	<meta name='language' content='<?php echo $completeLang ?>'>
-	<meta name='description' content='<?php echo _("Pedro Góes, fundador da InEvent, um aplicativo inteligente conexões e interações em eventos. Formado na Universidade de São Paulo. Vlog semanal, textos sobre estratégia e percepções sobre a carreira profissional.") ?>'>
+	<meta name='description' content='<?php echo _("Pedro Góes, fundador da InEvent, um aplicativo inteligente para conexões e interações em eventos. Formado na Universidade de São Paulo. Vlog semanal, textos sobre estratégia e percepções sobre a carreira profissional.") ?>'>
 	<meta name='keywords' content='<?php echo _("inevent, startups, estratégia, usp, empreendedor, profissional, carreiras, opinião, aprendizado, crescimento") ?>'>
 	<meta name='robots' content='all'>
 	<meta name="viewport" content="width=device-width, maximum-scale=1.0" />
