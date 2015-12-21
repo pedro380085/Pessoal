@@ -8,6 +8,7 @@
     #content {
     	margin: 0 auto;
     	width: 80%;
+        text-align: left !important;
     }
 
 	/* @group Index */
@@ -27,8 +28,12 @@
     	width: 100%;
     }
 
-    .introduction {
+    .headline {
     	font-size: 180%;
+    }
+
+    .intro {
+        text-align: left;
     }
 
     /* @end */

@@ -7,12 +7,12 @@
 
         <section class="photo" id="photo">
             <img src="images/me.png" alt="Eu" class="image">
-            <p><?php echo sprintf(_("Um breve texto sobre mim, consulte minha %sHistória%s."), '<a href="hist.php">', '</a>') ?></p>
+            <p><?php echo sprintf(_("Um breve texto sobre mim, consulte minha %sHistória%s."), '<a href="story.php">', '</a>') ?></p>
         </section>
 
 		<div class="collumn">
 			
-			<section class="introduction">
+			<section class="headline">
 				<p><?php echo sprintf(_("Sou Pedro Góes,<br>CEO na %sInEvent%s."), '<a target="_blank" href="https://inevent.us/">', '</a>') ?></p>
 			</section>
 			
@@ -33,9 +33,9 @@
 			<section class="onlyTitle idioms">
 				<h2><?php echo _("Idiomas") ?></h2>
 				<ul>
-					<a href="hist.php"><li><?php echo _("Português") ?></li></a>
-					<a href="hist.php"><li><?php echo _("Inglês") ?></li></a>
-					<a href="hist.php"><li><?php echo _("Espanhol") ?></li></a>
+					<a href="story.php"><li><?php echo _("Português") ?></li></a>
+					<a href="story.php"><li><?php echo _("Inglês") ?></li></a>
+					<a href="story.php"><li><?php echo _("Espanhol") ?></li></a>
 				</ul>
 			</section>
 			
