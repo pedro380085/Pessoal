@@ -48,10 +48,6 @@
 			</section>
 			
 			<div style="clear: both;"></div>
-		
-			<section class="centerIt goDownABit">
-				<p><?php echo _("Me procurando em algum lugar?") ?> <a target="_blank" href="https://twitter.com/pedro380085">@pedro380085</a></p>
-			</section>
 			
 			<section class="centerIt">
 				<p><?php echo _("'Vovô Kiko, descanse em paz no céu. Sempre lhe amaremos muito.'") ?></p>
