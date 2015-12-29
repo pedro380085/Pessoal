@@ -33,13 +33,13 @@
 
                 <li id="y16"><?php echo _("Com 16 anos, lançamos o AccountPremium no mês em que fiz aniversário. Iniciamos com uma base de 45 clientes. Ao longo dos anos expandimos os serviços oferecidos para incluir Rapidshare, Easyshare, 4shared e inclusive torrents. O servidor caía praticamente todos os dias. O suporte era feito pelo MSN. Começamos a fazer anúncios em fóruns de filmes para atingir mais potenciais clientes.") ?></li>
 
-                <li id="y15"><?php echo _("Com 15 anos, o Megaupload bloqueou todas as contas premium que estávamos compartilhando. Sem solução, apresentei o problema para a comunidade e um usuário chamado Felipe (que acabaria se tornando meu sócio) sugeriu criarmos um <i>proxy</i>. Sem saber o que era aquilo, pesquisei e acabei descobrindo que era basicamente um <i>middleman</i>. Criamos então o AccountPremium. Felipe entrou com a parte de programação e eu trouxe os clientes. Nessa época comecei a descobrir o que era programação.") ?></li>
+                <li id="y15"><?php echo _("Com 15 anos, o Megaupload bloqueou todas as contas premium que estávamos compartilhando. Sem solução, apresentei o problema para a comunidade e um usuário chamado Felipe (que acabaria se tornando meu sócio) sugeriu criarmos um <i>proxy</i>. Sem saber o que era aquilo, pesquisei e acabei descobrindo que era basicamente um <i>middleman</i>. Criamos então o AccountPremium. Felipe entrou com a parte de programação e eu trouxe os clientes. Nessa época comecei a descobrir o que era programação. Comecei a estudar espanhol também.") ?></li>
 
                 <li id="y14"><?php echo _("Com 14 anos, me envolvi em uma comunidade no Orkut que tentava conseguir contas premium no Megaupload de graça. Participei de um grupo que depositava 5 reais na conta do criador do tópico e esse comprava uma conta premium para nós dividirmos. Funcionava super bem! Quando o criador decidiu sair, resolvi assumir e o negócio cresceu para mais de 150 pessoas, o que me trazia 300 reais mensais de lucro.") ?></li>
 
                 <li id="y13"><?php echo _("Com 13 anos, comprei uma churrasqueira nas férias com dinheiro emprestado do meu pai e vendia churrasquinho na frente do açougue da família. No final paguei a churrasqueira e ainda fiquei com 50 reais!") ?></li>
 
-                <li id="y12"><?php echo _("Com 12 anos, batia bafo, ganhava tazos dos meus colegas (aqueles da Elma Chips) durante o recreio e depois revendia de volta para eles. Parei quando a coordenadora me puniu pois um menino não aguentava mais perder.") ?></li>
+                <li id="y12"><?php echo _("Com 12 anos, batia bafo, ganhava tazos dos meus colegas (aqueles da Elma Chips) durante o recreio e depois revendia de volta para eles. Parei quando a coordenadora me puniu pois um menino não aguentava mais perder. Comecei a estudar inglês nessa época.") ?></li>
             </ul>
 
 		</section>
