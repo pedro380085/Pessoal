@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pessoal\n"
-"POT-Creation-Date: 2015-12-29 18:16-0200\n"
-"PO-Revision-Date: 2015-12-29 18:17-0200\n"
+"POT-Creation-Date: 2016-04-27 22:42-0300\n"
+"PO-Revision-Date: 2016-04-27 22:42-0300\n"
 "Last-Translator: Pedro Góes <goes@inevent.us>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -13,9 +13,10 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: /Users/pedro/Sites/Pessoal\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+"X-Poedit-SearchPathExcluded-0: ../../../js\n"
 
-#: /Users/pedro/Sites/Pessoal/includes/html/header.php:29
+#: ../../../includes/html/header.php:29
 msgid ""
 "Pedro Góes, fundador da InEvent, um aplicativo inteligente com conexões e "
 "interações para eventos. Formado na Universidade de São Paulo. Vlog semanal, "
@@ -25,7 +26,7 @@ msgstr ""
 "interactions for events. Formed at the University of Sao Paulo. Weekly vlog, "
 "texts on strategy and perceptions about the professional career."
 
-#: /Users/pedro/Sites/Pessoal/includes/html/header.php:30
+#: ../../../includes/html/header.php:30
 msgid ""
 "inevent, startups, estratégia, usp, empreendedor, profissional, carreiras, "
 "opinião, aprendizado, crescimento"
@@ -33,72 +34,61 @@ msgstr ""
 "inevent, startups, strategy, use, entrepreneur, professional, careers, "
 "opinion, learning, growth"
 
-#: /Users/pedro/Sites/Pessoal/index.php:10
-#, php-format
-msgid "Um breve texto sobre mim, consulte minha %sHistória%s."
-msgstr "Wanna know more? %sStory%s."
-
-#: /Users/pedro/Sites/Pessoal/index.php:16
+#: ../../../index.php:15
 #, php-format
 msgid "Sou Pedro Góes,<br>CEO na %sInEvent%s."
 msgstr "hey! I’m Pedro Góes,<br>CEO @ %sInEvent%s"
 
-#: /Users/pedro/Sites/Pessoal/index.php:20
-#: /Users/pedro/Sites/Pessoal/personal.php:15
+#: ../../../index.php:19 ../../../personal.php:15
 msgid "Artigos"
 msgstr "Articles"
 
-#: /Users/pedro/Sites/Pessoal/index.php:21
+#: ../../../index.php:20
 #, php-format
 msgid "A maioria estão no meu %sPulse%s."
 msgstr "Mostly at my %sPulse%s."
 
-#: /Users/pedro/Sites/Pessoal/index.php:21
+#: ../../../index.php:20
 #, php-format
 msgid "Nosso vlog semanal está no %sYoutube%s."
 msgstr "Our weekly blog is in %sYoutube%s."
 
-#: /Users/pedro/Sites/Pessoal/index.php:21
+#: ../../../index.php:20
 msgid "Escritas independentes também podem ser vistas abaixo:"
 msgstr "Independent writing can be found below:"
 
-#: /Users/pedro/Sites/Pessoal/index.php:28
+#: ../../../index.php:27
 #, php-format
 msgid "Para uma série pessoal, veja minha página %sprivada%s."
 msgstr "For a personal series, check out my %sprivate%s page."
 
-#: /Users/pedro/Sites/Pessoal/index.php:34
-msgid "Idiomas"
-msgstr "Idioms"
+#: ../../../index.php:31
+msgid "Sobre mim"
+msgstr "About me"
 
-#: /Users/pedro/Sites/Pessoal/index.php:36
-#: /Users/pedro/Sites/Pessoal/index.php:45
-msgid "Português"
-msgstr "Portuguese"
+#: ../../../index.php:32
+#, php-format
+msgid "Um breve texto sobre mim, consulte minha %sHistória%s."
+msgstr "Wanna know more? %sStory%s."
 
-#: /Users/pedro/Sites/Pessoal/index.php:37
-#: /Users/pedro/Sites/Pessoal/index.php:46
-msgid "Inglês"
-msgstr "English"
+#: ../../../index.php:36
+msgid "Meu CV"
+msgstr "My CV"
 
-#: /Users/pedro/Sites/Pessoal/index.php:38
-msgid "Espanhol"
-msgstr "Spanish"
+#: ../../../index.php:37
+#, php-format
+msgid "Escreva uma vez, compartilhe em qualquer lugar: meu %sLinkedIn%s."
+msgstr "Write once, share anywhere: my %sLinkedIn%s."
 
-#: /Users/pedro/Sites/Pessoal/index.php:43
-msgid "Currículo"
-msgstr "Curriculum"
-
-#: /Users/pedro/Sites/Pessoal/index.php:53
+#: ../../../index.php:43
 msgid "'Vovô Kiko, descanse em paz no céu. Sempre lhe amaremos muito.'"
 msgstr "'Grandpa, rest in peace. We will always love you.'"
 
-#: /Users/pedro/Sites/Pessoal/personal.php:8
-#: /Users/pedro/Sites/Pessoal/story.php:8
+#: ../../../personal.php:8 ../../../story.php:8
 msgid "Voltar para início"
 msgstr "Go back"
 
-#: /Users/pedro/Sites/Pessoal/personal.php:11
+#: ../../../personal.php:11
 #, php-format
 msgid ""
 "Artigos escritos com referências exclusivas ao meu cunho pessoal. Se estiver "
@@ -109,7 +99,7 @@ msgstr ""
 "looking for professional references, please proceed to my %sprofessional%s "
 "page."
 
-#: /Users/pedro/Sites/Pessoal/personal.php:13
+#: ../../../personal.php:13
 msgid ""
 "Como grande parte dos registros se estendem desde 2007, todos os artigos são "
 "ordenados por ordem cronológica. Atualizações são como novas publicações, "
@@ -119,15 +109,15 @@ msgstr ""
 "chronological order. Updates are like new publications; automatically place "
 "the item on the list."
 
-#: /Users/pedro/Sites/Pessoal/story.php:11
+#: ../../../story.php:11
 msgid "Eu"
 msgstr "Me"
 
-#: /Users/pedro/Sites/Pessoal/story.php:13
+#: ../../../story.php:13
 msgid "Uma rápida história"
 msgstr "A brief story of myself"
 
-#: /Users/pedro/Sites/Pessoal/story.php:15
+#: ../../../story.php:15
 msgid ""
 "Quando decide se tornar CEO de alguma empresa, mesmo com produtos de ponta e "
 "dedicação diária, sua única missão é resolver o problema do seu cliente. As "
@@ -143,7 +133,7 @@ msgstr ""
 "have today, we are attentive about the details to achieve solutions that "
 "consumers need."
 
-#: /Users/pedro/Sites/Pessoal/story.php:17
+#: ../../../story.php:17
 msgid ""
 "Algo importante que sempre me interessou é saber o que grandes empresários "
 "realizaram em suas vidas quando mais jovens. Inclusive como forma de "
@@ -154,7 +144,7 @@ msgstr ""
 "of documenting my accomplishments, I quote below my years from the most "
 "recent:"
 
-#: /Users/pedro/Sites/Pessoal/story.php:20
+#: ../../../story.php:20
 msgid ""
 "Com 23 anos, concretizamos nosso segundo ano com crescimento de 9x na "
 "InEvent. Expandimos nossa equipe de 3 para 10 pessoas. Trouxemos grandes "
@@ -170,7 +160,7 @@ msgstr ""
 "Brazil and in the United States. I moved to São Paulo. I started to learn "
 "Chinese once and for all."
 
-#: /Users/pedro/Sites/Pessoal/story.php:22
+#: ../../../story.php:22
 msgid ""
 "Com 22 anos, fomos selecionados para o Lisbon Challenge, programa de "
 "aceleração de 3 meses na Europa. O programa, que cobria apenas os custos "
@@ -186,7 +176,7 @@ msgstr ""
 "continue developing the application and at the end of the year we got our "
 "second client, Rakuten."
 
-#: /Users/pedro/Sites/Pessoal/story.php:24
+#: ../../../story.php:24
 #, php-format
 msgid ""
 "Com 21 anos, o Garça não estava indo muito bem e aceitamos fazer um projeto "
@@ -207,7 +197,7 @@ msgstr ""
 "USP) became partners in the project. We also decided to close Garça "
 "operations."
 
-#: /Users/pedro/Sites/Pessoal/story.php:26
+#: ../../../story.php:26
 #, php-format
 msgid ""
 "Com 20 anos, para amadurecer as minhas habilidades interpessoais, tais como "
@@ -231,7 +221,7 @@ msgstr ""
 "restaurant. Throughout our journey we got about 10 clients, the main one "
 "being Downtown Bar, São Carlos’ entrepreneur bar."
 
-#: /Users/pedro/Sites/Pessoal/story.php:28
+#: ../../../story.php:28
 #, php-format
 msgid ""
 "Com 19 anos, finalmente tinha a liberdade que sempre quis (não só eu estava "
@@ -259,7 +249,7 @@ msgstr ""
 "so I declined the offer and approached Brazil as the environment where I "
 "would grow professionally."
 
-#: /Users/pedro/Sites/Pessoal/story.php:30
+#: ../../../story.php:30
 #, php-format
 msgid ""
 "Com 18 anos, optei por deixar a minha sociedade no AccountPremium. Estudei "
@@ -277,7 +267,7 @@ msgstr ""
 "loved writing code but, still, I had to learn all the unnecessary subjects "
 "so I could enter a good university."
 
-#: /Users/pedro/Sites/Pessoal/story.php:32
+#: ../../../story.php:32
 msgid ""
 "Com 17 anos, o AccountPremium chegou a seu topo com 150tb de downloads e 10 "
 "mil usuários ativos em um único mês. Tínhamos uma conexão dedicada de "
@@ -291,7 +281,7 @@ msgstr ""
 "that time I started to get interested in the development of mobile "
 "applications, launching a first iOS app called Argumento."
 
-#: /Users/pedro/Sites/Pessoal/story.php:34
+#: ../../../story.php:34
 msgid ""
 "Com 16 anos, lançamos o AccountPremium no mês em que fiz aniversário. "
 "Iniciamos com uma base de 45 clientes. Ao longo dos anos expandimos os "
@@ -306,7 +296,7 @@ msgstr ""
 "server crashed virtually every day. The support was by MSN. We started doing "
 "commercials at movie forums to reach more potential customers."
 
-#: /Users/pedro/Sites/Pessoal/story.php:36
+#: ../../../story.php:36
 msgid ""
 "Com 15 anos, o Megaupload bloqueou todas as contas premium que estávamos "
 "compartilhando. Sem solução, apresentei o problema para a comunidade e um "
@@ -325,7 +315,7 @@ msgstr ""
 "his programming skills and I brought clients. At that time I began to "
 "discover what was programming. I also began learning Spanish."
 
-#: /Users/pedro/Sites/Pessoal/story.php:38
+#: ../../../story.php:38
 msgid ""
 "Com 14 anos, me envolvi em uma comunidade no Orkut que tentava conseguir "
 "contas premium no Megaupload de graça. Participei de um grupo que depositava "
@@ -341,7 +331,7 @@ msgstr ""
 "leave, I decided to take over and the business grew to more than 150 people, "
 "which brought me 300 reais in profit monthly."
 
-#: /Users/pedro/Sites/Pessoal/story.php:40
+#: ../../../story.php:40
 msgid ""
 "Com 13 anos, comprei uma churrasqueira nas férias com dinheiro emprestado do "
 "meu pai e vendia churrasquinho na frente do açougue da família. No final "
@@ -351,7 +341,7 @@ msgstr ""
 "father and was selling meat sticks in front of the family butcher’s shop. At "
 "the end I paid the grill and I even kept 50 reais!"
 
-#: /Users/pedro/Sites/Pessoal/story.php:42
+#: ../../../story.php:42
 msgid ""
 "Com 12 anos, batia bafo, ganhava tazos dos meus colegas (aqueles da Elma "
 "Chips) durante o recreio e depois revendia de volta para eles. Parei quando "
@@ -363,74 +353,29 @@ msgstr ""
 "coordinator punished me because a boy I couldn’t stand losing. I began to "
 "study English at this time."
 
-#: /Users/pedro/Sites/Pessoal/story.php:119
+#: ../../../story.php:119
 msgid "Citação"
 msgstr "Quote"
 
-#: /Users/pedro/Sites/Pessoal/story.php:120
+#: ../../../story.php:120
 msgid "'Seja humilde mas não se esconda dos seus méritos'"
 msgstr "'Be humble but do not hide from your merits'"
 
-#: /Users/pedro/Sites/Pessoal/story.php:120
+#: ../../../story.php:120
 msgid "Autor desconhecido"
 msgstr "Unknown author"
 
-#~ msgid "Me procurando em algum lugar?"
-#~ msgstr "Trying to find me?"
+#~ msgid "Idiomas"
+#~ msgstr "Idioms"
 
-#~ msgid "Com 23 anos, concretizamos um ano com crescimento de 9x na InEvent."
-#~ msgstr "With 23 years, completed a year with growth of 9x on InEvent."
+#~ msgid "Português"
+#~ msgstr "Portuguese"
 
-#~ msgid "Com 22 anos,"
-#~ msgstr "With 22 years,"
+#~ msgid "Inglês"
+#~ msgstr "English"
 
-#~ msgid ""
-#~ "Quando escrevi essa página pela primeira vez, optei por descrever em "
-#~ "detalhes todas minhas conquistas nos últimos anos mas, realmente, quem se "
-#~ "importa? A programação se tornou um hábito diário desde que completei "
-#~ "quinze anos e, se me perguntar, é algo que tenho grande aptidão. Mas no "
-#~ "final, não importa o que se sabe programar, mas sim para que sabe "
-#~ "programar."
-#~ msgstr ""
-#~ "When I've first written this page, I choose to describe in detail all my "
-#~ "achievements in the last few years but, really, who cares? I've been "
-#~ "programming every living day since I turned fifteen and I do it very "
-#~ "well, if you ask me. But in the end, what matters is what you program, "
-#~ "now what you know to program."
+#~ msgid "Espanhol"
+#~ msgstr "Spanish"
 
-#~ msgid ""
-#~ "Para me divertir, tento ler o máximo possível. Normalmente, leio algo em "
-#~ "torno de 60 livros por ano, incluindo pelo menos 30 mil páginas. Algumas "
-#~ "pessoas gostam de sair e se embebedar, eu prefiro ficar bêbado e ler. Ow, "
-#~ "e você pode perguntar: o que tanto lê? Te respondo: um monte de livros "
-#~ "técnicos, thrillers e, quando eu estou um pouco entediado, alguns livros "
-#~ "de negócios."
-#~ msgstr ""
-#~ "For fun, I try to read as much as possible. Usually, I read something "
-#~ "around 60 books a year, comprising at least 30k pages. Some people like "
-#~ "to go out and get drunk, I prefer to get drunk and read. Ow, and you "
-#~ "might ask: what do I read so much? And I'll answer you: a lot of "
-#~ "technical books, thrillers and, when I'm felling a bit sad, some business "
-#~ "books."
-
-#~ msgid ""
-#~ "E como exercício físico, tenho escolhido andar de mountain-bike pelo "
-#~ "menos duas vezes por semana nas trilhas de São Carlos / SP. Você "
-#~ "provavelmente vai me encontrar correndo em algum lugar, cheio de poeira e "
-#~ "suor ;)"
-#~ msgstr ""
-#~ "And as for physical exercise, I've chosen to ride my bicycle at least "
-#~ "twice a week on the trails of São Carlos/SP. You'll probably find me "
-#~ "running somewhere, full of dust and sweat ;)"
-
-#~ msgid "Alemão"
-#~ msgstr "German"
-
-#~ msgid "Francês"
-#~ msgstr "French"
-
-#~ msgid "A brief story of myself"
-#~ msgstr "Uma rápida história"
-
-#~ msgid "Um"
-#~ msgstr "Um"
+#~ msgid "Currículo"
+#~ msgstr "Curriculum"

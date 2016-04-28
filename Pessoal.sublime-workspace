@@ -520,44 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "includes/html/header.php",
-			"settings":
-			{
-				"buffer_size": 2028,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "includes/html/language.php",
 			"settings":
 			{
 				"buffer_size": 655,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 2487,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "Searching 51 files for \"Linguagens\"\n\n/Users/pedro/Sites/Pessoal/story.php:\n   67  \n   68  		<section class=\"fullText languages\" id=\"languages\">\n   69: 			<h2>Linguagens</h2>\n   70  			<ul>\n   71  				<li data-row=\"1\" data-col=\"1\" data-sizex=\"10\" data-sizey=\"5\">\n\n1 match in 1 file\n\n\nSearching 51 files for \"Voltar par\"\n\n/Users/pedro/Sites/Pessoal/locale/en_US/LC_MESSAGES/en_US.po:\n   96  #: /Users/pedro/Sites/Pessoal/personal.php:8\n   97  #: /Users/pedro/Sites/Pessoal/story.php:8\n   98: msgid \"Voltar para página inicial\"\n   99  msgstr \"Go back\"\n  100  \n\n/Users/pedro/Sites/Pessoal/personal.php:\n    6  	<div id=\"content\">\n    7  \n    8: 		<p class=\"goBack\"><a href=\"index.php\"><?php echo _(\"Voltar para página inicial\") ?></a></p>\n    9  \n   10          <section class=\"personal\">\n\n/Users/pedro/Sites/Pessoal/story.php:\n    6  	<div id=\"content\">\n    7  \n    8: 		<p class=\"goBack\"><a href=\"index.php\"><?php echo _(\"Voltar para início\") ?></a></p>\n    9  		\n   10  		<section class=\"intro\" id=\"intro\">\n\n3 matches across 3 files\n",
-			"settings":
-			{
-				"buffer_size": 1032,
-				"line_ending": "Unix",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"file": "personal.php",
-			"settings":
-			{
-				"buffer_size": 884,
 				"line_ending": "Unix"
 			}
 		},
@@ -762,13 +728,13 @@
 	},
 	"file_history":
 	[
-		"/Users/pedro/Sites/Pessoal/story.php",
+		"/Users/pedro/Sites/Pessoal/includes/html/header.php",
 		"/Users/pedro/Sites/Pessoal/index.php",
+		"/Users/pedro/Sites/Pessoal/story.php",
+		"/Users/pedro/Sites/Pessoal/personal.php",
 		"/Users/pedro/Sites/Pessoal/hist.php",
 		"/Users/pedro/Sites/Pessoal/js/default.js",
-		"/Users/pedro/Sites/Pessoal/personal.php",
 		"/Users/pedro/Sites/Pessoal/default.css",
-		"/Users/pedro/Sites/Pessoal/includes/html/header.php",
 		"/Users/pedro/Sites/Pessoal/includes/html/language.php",
 		"/Users/pedro/Sites/Pessoal/nmf-panel/index.html",
 		"/Users/pedro/Sites/Pessoal/nmf-panel/default.css",
@@ -897,7 +863,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 95.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"/Users/pedro/Sites/Pessoal",
@@ -1104,37 +1070,11 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "includes/html/header.php",
-					"settings":
-					{
-						"buffer_size": 2028,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								463,
-								463
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "includes/html/language.php",
 					"settings":
 					{
@@ -1145,116 +1085,8 @@
 						"selection":
 						[
 							[
-								606,
-								606
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "index.php",
-					"settings":
-					{
-						"buffer_size": 2487,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								602,
-								602
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"settings":
-					{
-						"buffer_size": 1032,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										158,
-										168
-									],
-									[
-										497,
-										507
-									],
-									[
-										695,
-										705
-									],
-									[
-										920,
-										930
-									]
-								],
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								703,
-								703
-							]
-						],
-						"settings":
-						{
-							"detect_indentation": false,
-							"output_tag": 2,
-							"result_base_dir": "",
-							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 165.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "personal.php",
-					"settings":
-					{
-						"buffer_size": 884,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								258,
-								258
+								655,
+								655
 							]
 						],
 						"settings":
@@ -1274,7 +1106,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 5,
+					"buffer": 1,
 					"file": "css/default.css",
 					"settings":
 					{
@@ -1300,7 +1132,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 2,
 					"file": "css/mobile.css",
 					"settings":
 					{
@@ -1380,6 +1212,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"header",
+				"includes/html/header.php"
+			],
+			[
+				"stor",
+				"story.php"
+			],
 			[
 				"inde",
 				"index.php"
@@ -1463,10 +1303,6 @@
 			[
 				"fine",
 				"js/jquery.fineuploader.js"
-			],
-			[
-				"header",
-				"includes/header.php"
 			],
 			[
 				"ca",
@@ -1887,10 +1723,6 @@
 			[
 				"reserva",
 				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/ReservationItemViewCell.m"
-			],
-			[
-				"restaurantwra",
-				"44fdb916a558ef6739cfa6378de4995a/PedidoNaRede/PedidoNaRede/RestaurantWrapperViewController.m"
 			]
 		],
 		"width": 0.0
