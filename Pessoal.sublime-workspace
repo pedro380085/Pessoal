@@ -528,10 +528,18 @@
 			}
 		},
 		{
+			"file": "story.php",
+			"settings":
+			{
+				"buffer_size": 12956,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "css/default.css",
 			"settings":
 			{
-				"buffer_size": 2551,
+				"buffer_size": 2518,
 				"line_ending": "Unix"
 			}
 		},
@@ -728,8 +736,8 @@
 	},
 	"file_history":
 	[
-		"/Users/pedro/Sites/Pessoal/includes/html/header.php",
 		"/Users/pedro/Sites/Pessoal/index.php",
+		"/Users/pedro/Sites/Pessoal/includes/html/header.php",
 		"/Users/pedro/Sites/Pessoal/story.php",
 		"/Users/pedro/Sites/Pessoal/personal.php",
 		"/Users/pedro/Sites/Pessoal/hist.php",
@@ -875,6 +883,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"php echo",
+			"php ech",
+			"php echo",
 			"Voltar par",
 			"Linguagens",
 			"%s",
@@ -999,10 +1010,7 @@
 			"`companyID`",
 			"inset 0 1px 0 white, 0 1px 5px #C9C9C9",
 			"inset 0 1px 0 white, 0 1px 5px #C9C9C9;",
-			"title",
-			"2px white",
-			"inset 0 1px 0 white, 0 1px 5px #C9C9C9;",
-			"img"
+			"title"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1070,7 +1078,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1085,45 +1093,15 @@
 						"selection":
 						[
 							[
-								655,
-								655
+								623,
+								623
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 1,
-					"file": "css/default.css",
-					"settings":
-					{
-						"buffer_size": 2551,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2134,
-								2134
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1132,7 +1110,66 @@
 					"type": "text"
 				},
 				{
+					"buffer": 1,
+					"file": "story.php",
+					"settings":
+					{
+						"buffer_size": 12956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1785.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
 					"buffer": 2,
+					"file": "css/default.css",
+					"settings":
+					{
+						"buffer_size": 2518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								791,
+								772
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 671.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "css/mobile.css",
 					"settings":
 					{
@@ -1143,13 +1180,15 @@
 						"selection":
 						[
 							[
-								484,
-								484
+								285,
+								285
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1213,16 +1252,16 @@
 		"selected_items":
 		[
 			[
-				"header",
-				"includes/html/header.php"
-			],
-			[
 				"stor",
 				"story.php"
 			],
 			[
 				"inde",
 				"index.php"
+			],
+			[
+				"header",
+				"includes/html/header.php"
 			],
 			[
 				"lah",
