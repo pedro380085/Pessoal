@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pessoal\n"
-"POT-Creation-Date: 2016-12-24 00:58-0200\n"
-"PO-Revision-Date: 2016-12-24 00:58-0200\n"
+"POT-Creation-Date: 2016-12-24 01:01-0200\n"
+"PO-Revision-Date: 2016-12-24 01:02-0200\n"
 "Last-Translator: Pedro Góes <goes@inevent.us>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -110,7 +110,7 @@ msgstr "With 24 years, we celebrated 2 years since launching InEvent with a 7x g
 
 #: ../../../story.php:22
 msgid "Com 23 anos, a InEvent cresceu 8x em faturamento. Expandimos nossa equipe de 3 para 10 pessoas. Trouxemos grandes clientes a bordo, como Endeavor, Hospital Albert Einstein, Stefanini, GMIC, SEBRAE, GSMD, Monsanto, etc. Fomos premiados internacionalmente e nacionalmente, tanto no Brasil quanto nos Estados Unidos. Me mudei para São Paulo. Comecei a aprender chinês de uma vez por todas."
-msgstr "With 23 years, InEvent achieved 9x growth (YoY). We expanded our team from 3 to 10 people. We brought major clients on board, such as Endeavor, Albert Einstein Hospital, Stefanini, GMIC, SEBRAE, GSMD, Monsanto, etc. We were awarded internationally and nationally, both in Brazil and in the United States. I moved to São Paulo. I started to learn Chinese once and for all."
+msgstr "With 23 years, InEvent achieved 8x growth (YoY). We expanded our team from 3 to 10 people. We brought major clients on board, such as Endeavor, Albert Einstein Hospital, Stefanini, GMIC, SEBRAE, GSMD, Monsanto, etc. We were awarded internationally and nationally, both in Brazil and in the United States. I moved to São Paulo. I started to learn Chinese once and for all."
 
 #: ../../../story.php:24
 msgid "Com 22 anos, fomos selecionados para o Lisbon Challenge, um programa de aceleração de 3 meses na Europa. O programa, que cobria apenas os custos locais, nos forçava a investir de nossos próprios recursos nas passagens e na moradia. Por incrível que fosse, o valor era exatamente o que tínhamos recebido de nosso primeiro cliente. Continuamos desenvolvendo o aplicativo e no final do ano conseguimos nosso segundo cliente, a Rakuten."
