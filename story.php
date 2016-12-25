@@ -12,9 +12,9 @@
 
             <p class="subHeader"><?= _("Uma rápida história") ?></p>
 
-            <p><?= _("Quando decide se tornar CEO de alguma empresa, mesmo com produtos de ponta e dedicação diária, sua única missão é resolver o problema do seu cliente. As pessoas não se importam o quanto você se dedica. Se você não resolve nenhum problema, nada importa. Com o fluxo absurdo de informação que temos hoje em dia, somos exigentes com os detalhes para atingir soluções que os consumidores precisam.") ?></p>
+            <p><?= _("Quando se decide tornar CEO de alguma empresa, mesmo com produtos de ponta e dedicação diária, sua única missão é resolver o problema do seu cliente. As pessoas não se importam o quanto você se dedica. Se você não resolve nenhum problema, nada importa. Com o fluxo absurdo de informação que temos hoje em dia, deve ser exigente com os detalhes para atingir soluções que os consumidores precisam.") ?></p>
 
-            <p><?= _("Algo importante que sempre me interessou é saber o que grandes empresários realizaram em suas vidas quando mais jovens. Inclusive como forma de documentar minhas conquistas, cito abaixo meus anos a partir do mais recente:") ?></p>
+            <p><?= _("Algo que sempre me interessou foi saber o que grandes empresários realizaram em suas vidas quando mais jovens. Me fascina poder ler suas biografias. Sou o tipo que ando com um livro embaixo do braço ou dentro da mochila. Procuro também documentar minhas conquistas e cito abaixo meus anos a partir do mais recente:") ?></p>
 
             <ul class="yearList">
             	<li id="y24"><?= sprintf(_("Com 24 anos, comemoramos 2 anos desde lançamento da InEvent com um crescimento de 7x no ano. Solidificamos a plataforma como uma suíte de soluções (credenciamento, controle de acesso, logística, etc) em vez de ser apenas um app interativo. Retirei meu certificado do HSK 1 e viajei para a China com uma bolsa de estudos! Conquistamos mais de 250 clientes, como Santander, Bayer, Coca-Cola e outros. Realizamos nossa primeira conferência e contratamos os primeiros VP's da InEvent. Comecei a participar do %s LIDE %s Futuro."), '<a href="http://www.lidebr.com.br/">', '</a>') ?></li>

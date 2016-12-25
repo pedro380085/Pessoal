@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pessoal\n"
-"POT-Creation-Date: 2016-12-24 01:01-0200\n"
-"PO-Revision-Date: 2016-12-24 01:02-0200\n"
+"POT-Creation-Date: 2016-12-25 16:36-0200\n"
+"PO-Revision-Date: 2016-12-25 16:38-0200\n"
 "Last-Translator: Pedro Góes <goes@inevent.us>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -26,51 +26,37 @@ msgstr "inevent, startups, strategy, use, entrepreneur, professional, careers, o
 
 #: ../../../index.php:15
 #, php-format
-msgid "Sou Pedro Góes,<br>CEO na %sInEvent%s."
-msgstr "hey! I’m Pedro Góes,<br>CEO @ %sInEvent%s"
+msgid "Sou Pedro Góes,<br>CEO na %s InEvent %s."
+msgstr "I’m Pedro Góes,<br>CEO @ %s InEvent %s"
 
-#: ../../../index.php:19 ../../../personal.php:15
-msgid "Artigos"
-msgstr "Articles"
-
-#: ../../../index.php:20
-#, php-format
-msgid "A maioria estão no meu %sPulse%s."
-msgstr "Mostly at my %sPulse%s."
-
-#: ../../../index.php:20
-#, php-format
-msgid "Nosso vlog semanal está no %sYoutube%s."
-msgstr "Our weekly blog is in %sYoutube%s."
-
-#: ../../../index.php:20
-msgid "Escritas independentes também podem ser vistas abaixo:"
-msgstr "Independent writing can be found below:"
-
-#: ../../../index.php:27
-#, php-format
-msgid "Para uma série pessoal, veja minha página %sprivada%s."
-msgstr "For a personal series, check out my %sprivate%s page."
-
-#: ../../../index.php:31
+#: ../../../index.php:19
 msgid "Sobre mim"
 msgstr "About me"
 
-#: ../../../index.php:32
+#: ../../../index.php:20
 #, php-format
-msgid "Um breve texto sobre mim, consulte minha %sHistória%s."
-msgstr "Wanna know more? %sStory%s."
+msgid "Quer saber mais? %s História %s."
+msgstr "Wanna know more? %s Story %s."
 
-#: ../../../index.php:36
+#: ../../../index.php:24 ../../../personal.php:15
+msgid "Artigos"
+msgstr "Articles"
+
+#: ../../../index.php:25
+#, php-format
+msgid "A maioria estão no meu %s Pulse %s."
+msgstr "Mostly at my %s Pulse %s."
+
+#: ../../../index.php:29
 msgid "Meu CV"
 msgstr "My CV"
 
-#: ../../../index.php:37
+#: ../../../index.php:30
 #, php-format
-msgid "Escreva uma vez, compartilhe em qualquer lugar: meu %sLinkedIn%s."
-msgstr "Write once, share anywhere: my %sLinkedIn%s."
+msgid "Escreva uma vez, compartilhe em qualquer lugar: meu %s LinkedIn %s."
+msgstr "Write once, share anywhere: my %s LinkedIn %s."
 
-#: ../../../index.php:43
+#: ../../../index.php:36
 msgid "'Vovô Kiko, descanse em paz no céu. Sempre lhe amaremos muito.'"
 msgstr "'Grandpa, rest in peace. We will always love you.'"
 
@@ -96,12 +82,12 @@ msgid "Uma rápida história"
 msgstr "A brief story of myself"
 
 #: ../../../story.php:15
-msgid "Quando decide se tornar CEO de alguma empresa, mesmo com produtos de ponta e dedicação diária, sua única missão é resolver o problema do seu cliente. As pessoas não se importam o quanto você se dedica. Se você não resolve nenhum problema, nada importa. Com o fluxo absurdo de informação que temos hoje em dia, somos exigentes com os detalhes para atingir soluções que os consumidores precisam."
+msgid "Quando se decide tornar CEO de alguma empresa, mesmo com produtos de ponta e dedicação diária, sua única missão é resolver o problema do seu cliente. As pessoas não se importam o quanto você se dedica. Se você não resolve nenhum problema, nada importa. Com o fluxo absurdo de informação que temos hoje em dia, deve ser exigente com os detalhes para atingir soluções que os consumidores precisam."
 msgstr "When you decide to become CEO of any company, even with state-of-the-art products and daily dedication, your only mission is to solve the problem of your client. People don’t care how much you dedicate yourself. If you do not solve any problem, nothing matters. With the absurd flow of information we have today, we are attentive about the details to achieve solutions that consumers need."
 
 #: ../../../story.php:17
-msgid "Algo importante que sempre me interessou é saber o que grandes empresários realizaram em suas vidas quando mais jovens. Inclusive como forma de documentar minhas conquistas, cito abaixo meus anos a partir do mais recente:"
-msgstr "Something important that has always interested me is knowing what great entrepreneurs have accomplished in their lives when younger. Even as a way of documenting my accomplishments, I quote below my years from the most recent:"
+msgid "Algo que sempre me interessou foi saber o que grandes empresários realizaram em suas vidas quando mais jovens. Me fascina poder ler suas biografias. Sou o tipo que ando com um livro embaixo do braço ou dentro da mochila. Procuro também documentar minhas conquistas e cito abaixo meus anos a partir do mais recente:"
+msgstr "Something that has always interested me was to know what great entrepreneurs have accomplished in their lives when younger. It fascinates me to read their biographies. I’m the kind of person that walks with a book under my arm or inside the backpack. I also try to document my accomplishments and I quote below my years from the most recent:"
 
 #: ../../../story.php:20
 #, php-format
@@ -171,6 +157,18 @@ msgstr "'Be humble but do not hide from your merits'"
 #: ../../../story.php:122
 msgid "Autor desconhecido"
 msgstr "Unknown author"
+
+#~ msgid "Nosso vlog semanal está no %sYoutube%s."
+#~ msgstr "Our weekly blog is in %sYoutube%s."
+
+#~ msgid "Escritas independentes também podem ser vistas abaixo:"
+#~ msgstr "Independent writing can be found below:"
+
+#~ msgid "Para uma série pessoal, veja minha página %sprivada%s."
+#~ msgstr "For a personal series, check out my %sprivate%s page."
+
+#~ msgid "Um breve texto sobre mim, consulte minha %sHistória%s."
+#~ msgstr "Wanna know more? %sStory%s."
 
 #~ msgid "Idiomas"
 #~ msgstr "Idioms"
